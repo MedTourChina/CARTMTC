@@ -1,0 +1,68 @@
+/* ============================================================
+   MedTourChina i18n base — append to the site's css/style.css
+   Provides: machine-translation disclaimer bar,
+             Arabic RTL mirror overrides,
+             Noto Sans Arabic webfont for /ar pages.
+   NOTE: the [dir="rtl"] selectors below target common class
+   names; adjust them to match the target site's actual markup.
+   ============================================================ */
+
+/* Arabic webfont (loaded by browser at runtime; falls back to var(--font)) */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700&display=swap');
+
+/* --- Machine-translation disclaimer bar (injected at top of <body>) --- */
+.mt-disclaimer {
+  background: #FFF8E1;
+  color: #7a5b00;
+  font-size: 13px;
+  padding: 8px 16px;
+  text-align: center;
+  line-height: 1.5;
+}
+.mt-disclaimer a { color: #0D47A1; font-weight: 600; margin-left: 6px; }
+
+/* === Multilingual: Arabic RTL overrides === */
+[dir="rtl"] body { font-family: 'Noto Sans Arabic', var(--font); }
+[dir="rtl"] .nav-inner { flex-direction: row-reverse; }
+[dir="rtl"] .nav-links { flex-direction: row-reverse; }
+[dir="rtl"] .breadcrumb { direction: rtl; }
+[dir="rtl"] .article-body ul,
+[dir="rtl"] .article-body ol { padding-left: 0; padding-right: 24px; }
+[dir="rtl"] .mdt-column ul li { flex-direction: row-reverse; text-align: right; }
+[dir="rtl"] blockquote,
+[dir="rtl"] .article-body blockquote {
+  border-left: none;
+  border-right: 4px solid var(--accent);
+  border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+}
+[dir="rtl"] .news-card-meta { flex-direction: row-reverse; }
+[dir="rtl"] .doctor-info .doctor-tags { direction: rtl; }
+[dir="rtl"] .article-meta { flex-direction: row-reverse; }
+[dir="rtl"] .hero-buttons,
+[dir="rtl"] .cta-buttons,
+[dir="rtl"] .btn-group { flex-direction: row-reverse; }
+[dir="rtl"] img { transform: none; }  /* keep logos/photos upright */
+
+/* === Multilingual: language switcher bar (injected at top of <body>) === */
+.lang-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  align-items: center;
+  padding: 6px 16px;
+  background: var(--primary-dark, #004D40);
+  font-size: 13px;
+  line-height: 1.4;
+}
+.lang-switch a {
+  color: #fff;
+  opacity: 0.85;
+  text-decoration: none;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.lang-switch a:hover { opacity: 1; text-decoration: underline; }
+.lang-switch a.active { opacity: 1; font-weight: 700; }
+.lang-switch a.active::after { content: " \2022"; }
+[dir="rtl"] .lang-switch { direction: rtl; }
+
