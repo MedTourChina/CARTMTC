@@ -19,3 +19,4 @@
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://chat.healthtourchina.net https://fonts.googleapis.com; font-src 'self' https://chat.healthtourchina.net https://fonts.gstatic.com; script-src 'self' 'unsafe-inline' https://chat.healthtourchina.net; connect-src 'self' https://chat.healthtourchina.net wss://chat.healthtourchina.net; frame-src 'self' https://chat.healthtourchina.net
