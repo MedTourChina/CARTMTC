@@ -28,7 +28,7 @@ structured to be i18n-ready (Phase 2: fr/es/ru/ar/vi) and CMTA-aggregatable (Pha
 
 - **Palette**: indigo `#4338CA` (primary) + magenta `#DB2777` (accent) — biotech / cell-therapy feel.
 - **Central contact line** (group standard): phone `+86 17742026990`, email `info@healthtourchina.net`, WhatsApp `wa.me/8617742026990`.
-- **Chatwoot**: the contact channel is the Chatwoot website widget, embedded site-wide (every page). Set each site's `website_token` in the SDK snippet (placeholder `REPLACE_WITH_CARTMTC_CHATWOOT_TOKEN`) before go-live. No backend or API key required; inquiries land in the Chatwoot inbox.
+- **Chatwoot**: the contact channel is the Chatwoot website widget, embedded site-wide (every page). The `website_token` is configured; inquiries land in the Chatwoot inbox. The contact form (`/contact/`) submits via the widget SDK (`setUser` + `setCustomAttributes`) so a structured case inquiry is attached to the Chatwoot contact — no backend or API key required. (Optional, dashboard-side: enable Chatwoot's native pre-chat form for an extra inline capture step.)
 
 ## Deploy (Cloudflare Pages)
 

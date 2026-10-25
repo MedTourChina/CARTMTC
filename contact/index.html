@@ -93,15 +93,52 @@
       <div class="feature-text">
         <h2>Request a Free Case Review</h2>
         <p>Tell us about the diagnosis, prior treatments and recent scans. A hematology specialist will assess CAR-T eligibility and the suitable product(s) and hospital — at no cost and with no obligation to travel.</p>
-        <p style="font-size:0.92rem; color: var(--text-muted);">Start a secure live chat with our CAR-T care team — available in your language, around the clock. Your details stay confidential.</p>
+        <p style="font-size:0.92rem; color: var(--text-muted);">Your details are sent securely to our CAR-T care team via live chat and kept confidential. Prefer to talk now? You can also open a live chat any time — your information stays with you.</p>
+        <p style="font-size:0.92rem; color: var(--text-muted);"><button type="button" class="btn btn-outline" data-chatwoot-open style="margin-top:8px;">&#128172; Open Live Chat Instead</button></p>
       </div>
       <div>
-        <div class="card" style="padding: 32px; text-align: center;">
-          <div class="card-icon" style="font-size:2rem;">&#128172;</div>
-          <h2>Start a Live Chat</h2>
-          <p style="margin-bottom:20px;">Prefer to talk now? Open a secure live chat with our CAR-T care team. We can review your case, answer questions about eligibility, approved drugs, partner hospitals and travel — in your language.</p>
-          <button type="button" class="btn btn-primary btn-lg" data-chatwoot-open>Start Live Chat</button>
-          <p style="font-size:0.85rem; color: var(--text-muted); margin-top:16px;">A chat bubble also appears at the bottom-right of every page.</p>
+        <form id="inquiry-form" class="card" style="padding: 32px;" novalidate>
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="name">Full Name *</label>
+              <input type="text" id="name" name="name" required placeholder="Your name">
+            </div>
+            <div class="form-group">
+              <label for="email">Email *</label>
+              <input type="email" id="email" name="email" required placeholder="you@example.com">
+            </div>
+            <div class="form-group">
+              <label for="phone">WhatsApp / Phone</label>
+              <input type="text" id="phone" name="phone" placeholder="+__ ___ ______">
+            </div>
+            <div class="form-group">
+              <label for="country">Country</label>
+              <input type="text" id="country" name="country" placeholder="Your country">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="interest">I am interested in</label>
+            <select id="interest" name="interest">
+              <option value="CAR-T eligibility review">CAR-T eligibility review</option>
+              <option value="Approved CAR-T drugs">Approved CAR-T drugs</option>
+              <option value="Cost estimate">Cost estimate</option>
+              <option value="Travel &amp; visa support">Travel &amp; visa support</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+          <div class="form-group full-width">
+            <label for="message">Diagnosis &amp; Treatment History *</label>
+            <textarea id="message" name="message" required placeholder="Diagnosis, prior treatments, recent scans, current status..."></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary btn-lg" style="width:100%;">Submit Inquiry</button>
+          <p class="form-note" style="font-size:0.85rem; color: var(--text-muted); margin-top:14px; text-align:center;">By submitting, you agree to be contacted by our CAR-T care team. We respond within 24 hours.</p>
+        </form>
+        <div id="form-status" class="card" style="padding: 32px; text-align:center; display:none;">
+          <div class="card-icon" style="font-size:2.2rem; color: var(--primary);">&#10003;</div>
+          <h2>Inquiry Received</h2>
+          <p id="form-status-name" style="margin-bottom:12px;"></p>
+          <p>Thank you. Your case details have been sent to our CAR-T care team via secure live chat. We will review your inquiry and respond within 24 hours.</p>
+          <p style="font-size:0.85rem; color: var(--text-muted); margin-top:14px;">Want to add anything? The live chat is open — your details are already attached.</p>
         </div>
       </div>
     </div>

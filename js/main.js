@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initNavigation();
   initFAQ();
   initChatwootTrigger();
+  initContactFormChatwoot();
   initScrollAnimations();
 });
 
@@ -82,6 +83,69 @@ function showToast(message, isError = false) {
     toast.classList.remove('show');
     setTimeout(() => toast.remove(), 300);
   }, 4000);
+}
+
+/* --- Contact form -> Chatwoot ---
+   The inquiry form has no backend. On submit we attach the visitor's details to
+   the Chatwoot contact via the widget SDK (setUser + setCustomAttributes), then
+   open the widget. The agent receives a contact carrying the full case inquiry —
+   no server, no API key. The widget SDK is provided by the per-page snippet. */
+function initContactFormChatwoot() {
+  const form = document.getElementById('inquiry-form');
+  if (!form) return;
+  const status = document.getElementById('form-status');
+
+  // Run `cb` once the Chatwoot widget SDK is ready (or best-effort after a short wait).
+  function whenChatwootReady(cb) {
+    if (window.$chatwoot && typeof window.$chatwoot.setUser === 'function') {
+      cb();
+      return;
+    }
+    window.addEventListener('chatwoot:ready', cb, { once: true });
+    const t = setInterval(() => {
+      if (window.$chatwoot && typeof window.$chatwoot.setUser === 'function') {
+        clearInterval(t);
+        cb();
+      }
+    }, 300);
+    setTimeout(() => clearInterval(t), 8000); // give up silently; agent still gets an email/WhatsApp fallback
+  }
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    if (!form.checkValidity()) {
+      form.reportValidity();
+      return;
+    }
+
+    const el = form.elements;
+    const data = {
+      name: (el['name'].value || '').trim(),
+      email: (el['email'].value || '').trim(),
+      phone: (el['phone'].value || '').trim(),
+      country: (el['country'].value || '').trim(),
+      interest: el['interest'].value || '',
+      message: (el['message'].value || '').trim()
+    };
+
+    whenChatwootReady(() => {
+      try {
+        if (data.email) window.$chatwoot.setUser(data.email, { name: data.name });
+        const attrs = { phone: data.phone, country: data.country, interest: data.interest };
+        if (data.message) attrs.inquiry = data.message.slice(0, 900);
+        if (window.$chatwoot.setCustomAttributes) window.$chatwoot.setCustomAttributes(attrs);
+        if (typeof window.$chatwoot.toggle === 'function') window.$chatwoot.toggle('open');
+      } catch (err) { /* non-fatal: agent still reachable by email/WhatsApp */ }
+    });
+
+    if (status) {
+      const nameEl = document.getElementById('form-status-name');
+      if (nameEl && data.name) nameEl.textContent = 'Thank you, ' + data.name + '.';
+      form.style.display = 'none';
+      status.style.display = 'block';
+      status.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  });
 }
 
 /* --- Scroll Animations --- */
