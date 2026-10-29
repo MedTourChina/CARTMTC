@@ -51,9 +51,15 @@ KEEP_ENGLISH = {
     "IL-6", "GM-CSF", "Ig", "IgG",
     # Approved CAR-T drug brand names (keep English / proprietary)
     "Kymriah", "Yescarta", "Tecartus", "Breyanzi", "Abecma", "Carvykti",
-    "奕凯达", "倍诺达", "福可苏", "源瑞达", "赛凯泽",
+    "Fucaso", "HICARA", "Carteyva",
+    "奕凯达", "倍诺达", "福可苏", "源瑞达", "赛恺泽", "卡卫荻",
+    "恒凯莱", "普利得凯", "恺力美",
     "Fosun Kite", "JW Therapeutics", "Innovent", "IASO Bio",
-    "Juven Sc", "Carsgen", "Novartis", "Gilead", "BMS",
+    "Juven Sc", "Juventas", "Carsgen", "Novartis", "Gilead", "BMS",
+    "Henrunda", "Legend Biotech", "Chongqing Precision Biotech",
+    # Solid-tumour / newer targets and regulators (keep Latin script)
+    "CLDN18.2", "Claudin18.2", "HER2", "GPC3", "GD2", "EGFRvIII", "CSCO",
+    "EGFR", "VEGF", "PD-1", "PD-L1",
     # Common media / channels
     "WhatsApp",
     # JSON-LD / meta technical strings (must remain in English)
@@ -492,9 +498,10 @@ def build():
                         a["class"] = cur + ["active"]
                         a["aria-current"] = "true"
                     continue
-                # Brand/logo always returns to the EN site home.
+                # Brand/logo returns to the home page of the current language,
+                # so visitors never get thrown back into English.
                 if "nav-brand" in (a.get("class") or []):
-                    a["href"] = "/"
+                    a["href"] = f"/{lang}/"
                     continue
                 a["href"] = rewrite_link(h, lang, rel)
             # rewrite shared-asset references (css/js/images) to root-absolute
@@ -532,6 +539,9 @@ def build_sitemap(generated):
     for lang, rel in generated:
         by_rel.setdefault(rel, []).append(lang)
     for rel, langs in by_rel.items():
+        # `generated` only tracks the built target languages; the English
+        # source page always exists, so add it (and keep it first).
+        langs = ["en"] + sorted(l for l in set(langs) if l != "en")
         # <lastmod>: prefer the source file's mtime (real change signal for
         # Google); fall back to today if the file can't be resolved.
         src = os.path.join(ROOT, rel)
@@ -539,14 +549,18 @@ def build_sitemap(generated):
             lastmod = date.fromtimestamp(os.path.getmtime(src)).isoformat()
         else:
             lastmod = date.today().isoformat()
-        out.append("  <url>")
-        out.append(f"    <loc>{canonical_url('en', rel)}</loc>")
-        out.append(f"    <lastmod>{lastmod}</lastmod>")
-        out.append("    <changefreq>weekly</changefreq>")
-        for l in langs:
-            out.append(f'    <xhtml:link rel="alternate" hreflang="{l}" href="{canonical_url(l, rel)}"/>')
-        out.append(f'    <xhtml:link rel="alternate" hreflang="x-default" href="{canonical_url("en", rel)}"/>')
-        out.append("  </url>")
+        # One <url> entry per language version, each carrying the full
+        # hreflang alternate set -- this is the pattern Google recommends
+        # for getting every localized URL indexed on its own.
+        for self_lang in langs:
+            out.append("  <url>")
+            out.append(f"    <loc>{canonical_url(self_lang, rel)}</loc>")
+            out.append(f"    <lastmod>{lastmod}</lastmod>")
+            out.append("    <changefreq>weekly</changefreq>")
+            for l in langs:
+                out.append(f'    <xhtml:link rel="alternate" hreflang="{l}" href="{canonical_url(l, rel)}"/>')
+            out.append(f'    <xhtml:link rel="alternate" hreflang="x-default" href="{canonical_url("en", rel)}"/>')
+            out.append("  </url>")
     out.append("</urlset>")
     with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write("\n".join(out))

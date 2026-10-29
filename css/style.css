@@ -127,7 +127,9 @@ h4 { font-size: 1.125rem; }
   font-weight: 800;
   color: var(--primary);
   letter-spacing: -0.01em;
+  flex-shrink: 0;
 }
+.nav-brand .brand-site { white-space: nowrap; }
 .nav-brand .logo-icon {
   width: 36px; height: 36px;
   background: linear-gradient(135deg, var(--primary), var(--accent));
@@ -840,6 +842,36 @@ h4 { font-size: 1.125rem; }
 .data-table tbody tr:last-child td { border-bottom: none; }
 .data-table .t-name { font-weight: 700; color: var(--primary-dark); }
 .data-table .t-target { color: var(--accent-dark); font-weight: 600; }
+.data-table .t-price { font-weight: 700; color: var(--accent); white-space: nowrap; }
+
+/* Stats strip on a light background (comparison / drug pages).
+   Base .stats-row is defined for the dark hero, so override colours here. */
+.stats-row.on-light {
+  gap: 8px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--bg-light, #F8FAFF);
+  padding: 8px;
+}
+.stats-row.on-light .stat-item {
+  border-right: 1px solid var(--border);
+}
+.stats-row.on-light .stat-item:last-child { border-right: 0; }
+.stats-row.on-light .stat-number {
+  font-size: 2rem;
+  color: var(--primary);
+  line-height: 1.15;
+}
+.stats-row.on-light .stat-label {
+  margin-top: 6px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+@media (max-width: 768px) {
+  .stats-row.on-light .stat-item { border-right: 0; }
+  .stats-row.on-light .stat-number { font-size: 1.6rem; }
+}
 
 /* --- Breadcrumb --- */
 .breadcrumb {
@@ -1023,6 +1055,7 @@ h4 { font-size: 1.125rem; }
 /* --- Responsive --- */
 @media (max-width: 1100px) {
   .nav-links a { padding: 8px 10px; font-size: 0.85rem; }
+  .nav-brand { font-size: 1rem; }
 }
 @media (max-width: 1024px) {
   .cards-grid-4 { grid-template-columns: repeat(2, 1fr); }
@@ -1065,3 +1098,74 @@ h4 { font-size: 1.125rem; }
   .hero-buttons { flex-direction: column; }
   .hero-buttons .btn { width: 100%; }
 }
+
+
+/* ===== MedTourChina i18n base (appended) ===== */
+/* ============================================================
+   MedTourChina i18n base — append to the site's css/style.css
+   Provides: machine-translation disclaimer bar,
+             Arabic RTL mirror overrides,
+             Noto Sans Arabic webfont for /ar pages.
+   NOTE: the [dir="rtl"] selectors below target common class
+   names; adjust them to match the target site's actual markup.
+   ============================================================ */
+
+/* Arabic webfont (loaded by browser at runtime; falls back to var(--font)) */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;700&display=swap');
+
+/* --- Machine-translation disclaimer bar (injected at top of <body>) --- */
+.mt-disclaimer {
+  background: #FFF8E1;
+  color: #7a5b00;
+  font-size: 13px;
+  padding: 8px 16px;
+  text-align: center;
+  line-height: 1.5;
+}
+.mt-disclaimer a { color: #0D47A1; font-weight: 600; margin-left: 6px; }
+
+/* === Multilingual: Arabic RTL overrides === */
+[dir="rtl"] body { font-family: 'Noto Sans Arabic', var(--font); }
+[dir="rtl"] .nav-inner { flex-direction: row-reverse; }
+[dir="rtl"] .nav-links { flex-direction: row-reverse; }
+[dir="rtl"] .breadcrumb { direction: rtl; }
+[dir="rtl"] .article-body ul,
+[dir="rtl"] .article-body ol { padding-left: 0; padding-right: 24px; }
+[dir="rtl"] .mdt-column ul li { flex-direction: row-reverse; text-align: right; }
+[dir="rtl"] blockquote,
+[dir="rtl"] .article-body blockquote {
+  border-left: none;
+  border-right: 4px solid var(--accent);
+  border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+}
+[dir="rtl"] .news-card-meta { flex-direction: row-reverse; }
+[dir="rtl"] .doctor-info .doctor-tags { direction: rtl; }
+[dir="rtl"] .article-meta { flex-direction: row-reverse; }
+[dir="rtl"] .hero-buttons,
+[dir="rtl"] .cta-buttons,
+[dir="rtl"] .btn-group { flex-direction: row-reverse; }
+[dir="rtl"] img { transform: none; }  /* keep logos/photos upright */
+
+/* === Multilingual: language switcher bar (injected at top of <body>) === */
+.lang-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  align-items: center;
+  padding: 6px 16px;
+  background: var(--primary-dark, #004D40);
+  font-size: 13px;
+  line-height: 1.4;
+}
+.lang-switch a {
+  color: #fff;
+  opacity: 0.85;
+  text-decoration: none;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.lang-switch a:hover { opacity: 1; text-decoration: underline; }
+.lang-switch a.active { opacity: 1; font-weight: 700; }
+.lang-switch a.active::after { content: " \2022"; }
+[dir="rtl"] .lang-switch { direction: rtl; }
+

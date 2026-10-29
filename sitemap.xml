@@ -1,73 +1,1227 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://cart.medtourchina.net/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://cart.medtourchina.net/what-is-car-t/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://cart.medtourchina.net/how-it-works/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cart.medtourchina.net/approved-drugs/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://cart.medtourchina.net/indications/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://cart.medtourchina.net/treatment-journey/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cart.medtourchina.net/hospitals/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cart.medtourchina.net/international-patients/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cart.medtourchina.net/news/</loc>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/approved-drugs/"/>
   </url>
   <url>
-    <loc>https://cart.medtourchina.net/resources/faq.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://cart.medtourchina.net/ar/approved-drugs/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/approved-drugs/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/approved-drugs/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/approved-drugs/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/approved-drugs/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/approved-drugs/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/approved-drugs/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/approved-drugs/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/approved-drugs/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/approved-drugs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/approved-drugs/"/>
   </url>
   <url>
     <loc>https://cart.medtourchina.net/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/contact/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/contact/"/>
   </url>
   <url>
-    <loc>https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://cart.medtourchina.net/ar/contact/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/contact/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/contact/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/contact/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/contact/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/contact/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/contact/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/contact/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/contact/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/contact/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/contact/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/contact/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/contact/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/contact/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/contact/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/hospitals/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/hospitals/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/hospitals/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/hospitals/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/hospitals/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/hospitals/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/hospitals/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/hospitals/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/hospitals/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/hospitals/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/hospitals/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/hospitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/hospitals/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/how-it-works/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/how-it-works/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/how-it-works/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/how-it-works/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/how-it-works/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/how-it-works/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/indications/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/indications/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/indications/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/indications/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/indications/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/indications/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/indications/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/indications/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/indications/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/indications/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/indications/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/indications/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/indications/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/indications/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/indications/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/indications/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/indications/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/indications/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/indications/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/indications/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/indications/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/indications/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/indications/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/indications/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/indications/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/indications/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/indications/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/indications/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/indications/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/indications/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/indications/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/indications/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/indications/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/indications/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/indications/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/indications/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/indications/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/international-patients/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/international-patients/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/international-patients/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/international-patients/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/international-patients/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/international-patients/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/international-patients/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/international-patients/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/international-patients/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/international-patients/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/international-patients/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/international-patients/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/international-patients/"/>
   </url>
   <url>
     <loc>https://cart.medtourchina.net/news/car-t-china-approval-landscape.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/news/car-t-china-approval-landscape.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/news/car-t-china-approval-landscape.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/news/car-t-china-approval-landscape.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/news/car-t-china-approval-landscape.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/news/car-t-china-approval-landscape.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-china-approval-landscape.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-china-approval-landscape.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/news/car-t-lymphoma-patient-journey.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/news/car-t-lymphoma-patient-journey.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/news/car-t-lymphoma-patient-journey.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/news/car-t-lymphoma-patient-journey.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/news/car-t-lymphoma-patient-journey.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-lymphoma-patient-journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-lymphoma-patient-journey.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/news/car-t-principles-explained.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/news/car-t-principles-explained.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/news/car-t-principles-explained.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/news/car-t-principles-explained.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/news/car-t-principles-explained.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/news/car-t-principles-explained.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-principles-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-principles-explained.html"/>
   </url>
   <url>
     <loc>https://cart.medtourchina.net/news/car-t-solid-tumor-research.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/news/car-t-solid-tumor-research.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/news/car-t-solid-tumor-research.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/news/car-t-solid-tumor-research.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/news/car-t-solid-tumor-research.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/news/car-t-solid-tumor-research.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/car-t-solid-tumor-research.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/car-t-solid-tumor-research.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/news/cd5-positive-dlbcl-car-t-outcomes.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/news/cd5-positive-dlbcl-car-t-outcomes.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/news/cd5-positive-dlbcl-car-t-outcomes.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/news/cd5-positive-dlbcl-car-t-outcomes.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/news/cd5-positive-dlbcl-car-t-outcomes.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/cd5-positive-dlbcl-car-t-outcomes.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/news/in-vivo-car-t-gene-writers.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/news/in-vivo-car-t-gene-writers.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/news/in-vivo-car-t-gene-writers.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/news/in-vivo-car-t-gene-writers.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/news/in-vivo-car-t-gene-writers.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/in-vivo-car-t-gene-writers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/in-vivo-car-t-gene-writers.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/news/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/news/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/news/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/news/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/news/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/news/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/news/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/news/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/news/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/news/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/news/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/news/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/resources/faq.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/resources/faq.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/resources/faq.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/resources/faq.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/resources/faq.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/resources/faq.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/resources/faq.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/resources/faq.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/resources/faq.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/resources/faq.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/resources/faq.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/resources/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/resources/faq.html"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/treatment-journey/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/treatment-journey/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/treatment-journey/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/treatment-journey/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/treatment-journey/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/treatment-journey/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/treatment-journey/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/treatment-journey/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/treatment-journey/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/treatment-journey/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/treatment-journey/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/treatment-journey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/treatment-journey/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/what-is-car-t/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/what-is-car-t/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ar/what-is-car-t/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/what-is-car-t/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/es/what-is-car-t/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/what-is-car-t/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/fr/what-is-car-t/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/what-is-car-t/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/ru/what-is-car-t/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/what-is-car-t/"/>
+  </url>
+  <url>
+    <loc>https://cart.medtourchina.net/vi/what-is-car-t/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cart.medtourchina.net/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://cart.medtourchina.net/ar/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cart.medtourchina.net/es/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cart.medtourchina.net/fr/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cart.medtourchina.net/ru/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://cart.medtourchina.net/vi/what-is-car-t/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cart.medtourchina.net/what-is-car-t/"/>
   </url>
 </urlset>

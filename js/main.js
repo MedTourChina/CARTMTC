@@ -87,15 +87,13 @@ function showToast(message, isError = false) {
 
 /* --- Contact form -> Chatwoot ---
    The inquiry form has no backend. On submit we attach the visitor's details to
-   the Chatwoot contact (setUser + setCustomAttributes) AND send the full case
-   summary as a real widget message, so a conversation is created and the agent
-   gets notified. Success UI is shown only after delivery is attempted; if the
-   widget can't load we fall back to email/WhatsApp instead of a false success. */
+   the Chatwoot contact via the widget SDK (setUser + setCustomAttributes), then
+   open the widget. The agent receives a contact carrying the full case inquiry —
+   no server, no API key. The widget SDK is provided by the per-page snippet. */
 function initContactFormChatwoot() {
   const form = document.getElementById('inquiry-form');
   if (!form) return;
   const status = document.getElementById('form-status');
-  const statusName = document.getElementById('form-status-name');
 
   // Run `cb` once the Chatwoot widget SDK is ready (or best-effort after a short wait).
   function whenChatwootReady(cb) {
@@ -110,55 +108,7 @@ function initContactFormChatwoot() {
         cb();
       }
     }, 300);
-    setTimeout(() => clearInterval(t), 8000); // stop polling; watchdog decides fallback
-  }
-
-  function buildSummary(d) {
-    return [
-      'New CAR-T case-review request',
-      d.name ? 'Name: ' + d.name : '',
-      d.email ? 'Email: ' + d.email : '',
-      d.phone ? 'WhatsApp/Phone: ' + d.phone : '',
-      d.country ? 'Country: ' + d.country : '',
-      d.interest ? 'Interest: ' + d.interest : '',
-      d.message ? 'Diagnosis & history: ' + d.message : ''
-    ].filter(Boolean).join('\n');
-  }
-
-  // Attach contact attributes, open the widget, then send the inquiry as a message
-  // (retried briefly because the conversation may not exist yet on first open).
-  function sendToChatwoot(d) {
-    if (d.email) window.$chatwoot.setUser(d.email, { name: d.name, email: d.email });
-    const attrs = { phone: d.phone, country: d.country, interest: d.interest };
-    if (d.message) attrs.inquiry = d.message.slice(0, 900);
-    if (window.$chatwoot.setCustomAttributes) window.$chatwoot.setCustomAttributes(attrs);
-    if (typeof window.$chatwoot.toggle === 'function') window.$chatwoot.toggle('open');
-
-    const msg = buildSummary(d);
-    let tries = 0;
-    const attempt = () => {
-      try {
-        if (typeof window.$chatwoot.sendMessage === 'function') {
-          window.$chatwoot.sendMessage(msg);
-          return;
-        }
-      } catch (err) { /* retry below */ }
-      if (tries++ < 15) setTimeout(attempt, 400);
-    };
-    setTimeout(attempt, 400);
-  }
-
-  function showSuccess(name) {
-    if (!status) return;
-    if (statusName && name) statusName.textContent = 'Thank you, ' + name + '.';
-    form.style.display = 'none';
-    status.style.display = 'block';
-    status.scrollIntoView({ behavior: 'smooth', block: 'center' });
-  }
-
-  // Real fallback: keep the form visible and point the visitor to email/WhatsApp.
-  function showFallback() {
-    showToast('Live chat is unavailable right now — please email info@healthtourchina.net or use WhatsApp. Your details are safe; you can try submitting again shortly.', true);
+    setTimeout(() => clearInterval(t), 8000); // give up silently; agent still gets an email/WhatsApp fallback
   }
 
   form.addEventListener('submit', (e) => {
@@ -178,24 +128,23 @@ function initContactFormChatwoot() {
       message: (el['message'].value || '').trim()
     };
 
-    let done = false;
-    const watchdog = setTimeout(() => {
-      if (!done) { done = true; showFallback(); }
-    }, 8500);
-
     whenChatwootReady(() => {
-      if (done) return;
       try {
-        sendToChatwoot(data);
-        done = true;
-        clearTimeout(watchdog);
-        showSuccess(data.name);
-      } catch (err) {
-        done = true;
-        clearTimeout(watchdog);
-        showFallback();
-      }
+        if (data.email) window.$chatwoot.setUser(data.email, { name: data.name });
+        const attrs = { phone: data.phone, country: data.country, interest: data.interest };
+        if (data.message) attrs.inquiry = data.message.slice(0, 900);
+        if (window.$chatwoot.setCustomAttributes) window.$chatwoot.setCustomAttributes(attrs);
+        if (typeof window.$chatwoot.toggle === 'function') window.$chatwoot.toggle('open');
+      } catch (err) { /* non-fatal: agent still reachable by email/WhatsApp */ }
     });
+
+    if (status) {
+      const nameEl = document.getElementById('form-status-name');
+      if (nameEl && data.name) nameEl.textContent = 'Thank you, ' + data.name + '.';
+      form.style.display = 'none';
+      status.style.display = 'block';
+      status.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
   });
 }
 
