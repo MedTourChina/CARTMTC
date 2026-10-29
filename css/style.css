@@ -1169,3 +1169,114 @@ h4 { font-size: 1.125rem; }
 .lang-switch a.active::after { content: " \2022"; }
 [dir="rtl"] .lang-switch { direction: rtl; }
 
+
+/* ============================================
+   Network news — cross-site CAR-T aggregation
+   Cards cite articles published by partner
+   hospitals on their own subdomains.
+   ============================================ */
+.net-head { max-width: 780px; margin-bottom: 34px; }
+.net-head h2 {
+  font-size: 1.5rem;
+  letter-spacing: -0.015em;
+  color: var(--primary-dark);
+  margin-bottom: 8px;
+}
+.net-city {
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+.net-blurb { color: var(--text-light); font-size: 0.95rem; line-height: 1.65; }
+
+.net-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 22px;
+}
+.net-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius);
+  padding: 22px;
+  text-decoration: none;
+  color: inherit;
+  transition: all var(--transition);
+}
+.net-card:hover {
+  border-color: var(--accent);
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+.net-card:hover h3 { color: var(--accent-dark); }
+.net-tag {
+  align-self: flex-start;
+  font-size: 0.66rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--primary);
+  background: var(--bg-alt);
+  padding: 4px 10px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+}
+.net-card h3 {
+  font-size: 1.02rem;
+  line-height: 1.45;
+  margin-bottom: 10px;
+  color: var(--text);
+}
+.net-card p {
+  font-size: 0.9rem;
+  line-height: 1.62;
+  color: var(--text-light);
+  flex-grow: 1;
+  margin-bottom: 16px;
+}
+.net-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--text-muted);
+}
+.net-out { color: var(--accent); font-size: 0.92rem; }
+
+[dir="rtl"] .net-head,
+[dir="rtl"] .net-card { text-align: right; }
+[dir="rtl"] .net-tag { align-self: flex-end; }
+[dir="rtl"] .net-out { transform: scaleX(-1); }
+
+@media (max-width: 640px) {
+  .net-grid { grid-template-columns: 1fr; gap: 16px; }
+  .net-card { padding: 18px; }
+  .net-head h2 { font-size: 1.3rem; }
+}
+
+/* Two-column variant: used by the four-card teaser on the news index so the
+   block lands as a balanced 2x2 instead of leaving one orphan card. */
+.net-grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 760px) {
+  .net-grid-2 { grid-template-columns: 1fr; }
+}
+
+/* RTL: the gold accent bar on .note-box must sit on the right edge, not left */
+[dir="rtl"] .note-box {
+  border-left: 1px solid var(--border);
+  border-right: 4px solid var(--gold);
+}
+
+/* Lead line inside .note-box: separated into its own paragraph so the
+   bold label and the body copy keep a proper gap in every language
+   (the i18n build replaces whole text nodes and would otherwise drop
+   the leading space after </strong>). */
+.note-box .note-lead { margin: 0 0 8px; }
+.note-box p:last-child { margin-bottom: 0; }

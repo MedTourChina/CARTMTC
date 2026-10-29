@@ -7733,5 +7733,887 @@
   "ru": "Следующая волна расширила выбор. Препараты CAR-T против BCMA для рецидивирующей/рефрактерной множественной миеломы вышли на китайский рынок, включая разработанные локально варианты, такие как 福可苏 (Equecabtagene / 伊基奥仑赛, Innovent / IASO Bio) и 赛恺泽 (Zevorcabtagene / 泽沃基奥仑赛, Carsgen). Препарат против CD19 для рецидивирующего/рефрактерного острого B-лимфобластного лейкоза 源瑞达 (Inaticabtagene / 纳基奥仑赛, Juventas) также пополнил список. К 2026 году число одобренных NMPA препаратов CAR-T достигло девяти — включая первый в мире CAR-T, одобренный при солидной опухоли, 恺力美 (satricabtagene autoleucel), при раке желудка.",
   "ar": "وسّعت الموجة التالية الخيارات. ووصلت إلى السوق الصينية منتجات CAR-T الموجَّهة إلى BCMA لعلاج الورم النقوي المتعدد الناكس/المقاوم، ومنها خيارات مطوَّرة محليًا مثل 福可苏 (Equecabtagene / 伊基奥仑赛, Innovent / IASO Bio) و赛恺泽 (Zevorcabtagene / 泽沃基奥仑赛, Carsgen). وانضم إلى القائمة أيضًا منتج موجَّه إلى CD19 لابيضاض الدم الليمفاوي الحاد من الخلايا البائية الناكس/المقاوم، وهو 源瑞达 (Inaticabtagene / 纳基奥仑赛, Juventas). وبحلول 2026 بلغ عدد منتجات CAR-T المعتمدة من NMPA تسعة — بينها أول CAR-T في العالم يُعتمد لورم صلب، 恺力美 (satricabtagene autoleucel)، في سرطان المعدة.",
   "vi": "Làn sóng tiếp theo đã mở rộng danh mục. Các sản phẩm CAR-T nhắm đích BCMA cho đa u tủy tái phát/kháng trị đã vào thị trường Trung Quốc, gồm các lựa chọn phát triển trong nước như 福可苏 (Equecabtagene / 伊基奥仑赛, Innovent / IASO Bio) và 赛恺泽 (Zevorcabtagene / 泽沃基奥仑赛, Carsgen). Một sản phẩm CD19 cho bạch cầu cấp dòng lympho B tái phát/kháng trị là 源瑞达 (Inaticabtagene / 纳基奥仑赛, Juventas) cũng gia nhập danh sách. Đến năm 2026, số sản phẩm CAR-T được NMPA phê duyệt đã đạt chín — bao gồm CAR-T đầu tiên trên thế giới được phê duyệt cho u rắn, 恺力美 (satricabtagene autoleucel), trong ung thư dạ dày."
+ },
+ "Research": {
+  "fr": "Recherche",
+  "es": "Investigación",
+  "ru": "Исследование",
+  "ar": "بحث",
+  "vi": "Nghiên cứu"
+ },
+ "Patient story": {
+  "fr": "Témoignage",
+  "es": "Historia de paciente",
+  "ru": "История пациента",
+  "ar": "قصة مريض",
+  "vi": "Câu chuyện bệnh nhân"
+ },
+ "Trial": {
+  "fr": "Essai clinique",
+  "es": "Ensayo clínico",
+  "ru": "Клиническое исследование",
+  "ar": "تجربة سريرية",
+  "vi": "Thử nghiệm lâm sàng"
+ },
+ "Transplant": {
+  "fr": "Greffe",
+  "es": "Trasplante",
+  "ru": "Трансплантация",
+  "ar": "زرع",
+  "vi": "Ghép tế bào gốc"
+ },
+ "Beijing": {
+  "fr": "Pékin",
+  "es": "Pekín",
+  "ru": "Пекин",
+  "ar": "بكين",
+  "vi": "Bắc Kinh"
+ },
+ "Shanghai": {
+  "fr": "Shanghai",
+  "es": "Shanghái",
+  "ru": "Шанхай",
+  "ar": "شنغهاي",
+  "vi": "Thượng Hải"
+ },
+ "Guangzhou": {
+  "fr": "Guangzhou",
+  "es": "Guangzhou",
+  "ru": "Гуанчжоу",
+  "ar": "قوانغتشو",
+  "vi": "Quảng Châu"
+ },
+ "Chongqing": {
+  "fr": "Chongqing",
+  "es": "Chongqing",
+  "ru": "Чунцин",
+  "ar": "تشونغتشينغ",
+  "vi": "Trùng Khánh"
+ },
+ "Foshan, Greater Bay Area": {
+  "fr": "Foshan, région de la Grande Baie",
+  "es": "Foshan, región de la Gran Bahía",
+  "ru": "Фошань, район Большого залива",
+  "ar": "فوشان، منطقة الخليج الكبير",
+  "vi": "Phật Sơn, vùng Vịnh lớn"
+ },
+ "› Network": {
+  "fr": "› Réseau",
+  "es": "› Red",
+  "ru": "› Сеть",
+  "ar": "› الشبكة",
+  "vi": "› Mạng lưới"
+ },
+ "Network News": {
+  "fr": "Actualités du réseau",
+  "es": "Noticias de la red",
+  "ru": "Новости сети",
+  "ar": "أخبار الشبكة",
+  "vi": "Tin tức mạng lưới"
+ },
+ "Send Your Reports": {
+  "fr": "Envoyer vos comptes rendus",
+  "es": "Envíe sus informes",
+  "ru": "Отправить заключения",
+  "ar": "أرسل تقاريرك",
+  "vi": "Gửi hồ sơ của bạn"
+ },
+ "How this page works.": {
+  "fr": "Comment fonctionne cette page.",
+  "es": "Cómo funciona esta página.",
+  "ru": "Как устроена эта страница.",
+  "ar": "كيف تعمل هذه الصفحة.",
+  "vi": "Trang này hoạt động thế nào."
+ },
+ "2 Aug 2026": {
+  "fr": "2 août 2026",
+  "es": "2 ago 2026",
+  "ru": "2 авг 2026",
+  "ar": "2 أغسطس 2026",
+  "vi": "2 thg 8, 2026"
+ },
+ "9 Jul 2026": {
+  "fr": "9 juil. 2026",
+  "es": "9 jul 2026",
+  "ru": "9 июл 2026",
+  "ar": "9 يوليو 2026",
+  "vi": "9 thg 7, 2026"
+ },
+ "10 Oct 2026": {
+  "fr": "10 oct. 2026",
+  "es": "10 oct 2026",
+  "ru": "10 окт 2026",
+  "ar": "10 أكتوبر 2026",
+  "vi": "10 thg 10, 2026"
+ },
+ "19 Aug 2026": {
+  "fr": "19 août 2026",
+  "es": "19 ago 2026",
+  "ru": "19 авг 2026",
+  "ar": "19 أغسطس 2026",
+  "vi": "19 thg 8, 2026"
+ },
+ "4 Aug 2026": {
+  "fr": "4 août 2026",
+  "es": "4 ago 2026",
+  "ru": "4 авг 2026",
+  "ar": "4 أغسطس 2026",
+  "vi": "4 thg 8, 2026"
+ },
+ "2 Oct 2026": {
+  "fr": "2 oct. 2026",
+  "es": "2 oct 2026",
+  "ru": "2 окт 2026",
+  "ar": "2 أكتوبر 2026",
+  "vi": "2 thg 10, 2026"
+ },
+ "3 Sep 2026": {
+  "fr": "3 sept. 2026",
+  "es": "3 sep 2026",
+  "ru": "3 сент 2026",
+  "ar": "3 سبتمبر 2026",
+  "vi": "3 thg 9, 2026"
+ },
+ "9 May 2026": {
+  "fr": "9 mai 2026",
+  "es": "9 may 2026",
+  "ru": "9 мая 2026",
+  "ar": "9 مايو 2026",
+  "vi": "9 thg 5, 2026"
+ },
+ "24 Jul 2026": {
+  "fr": "24 juil. 2026",
+  "es": "24 jul 2026",
+  "ru": "24 июл 2026",
+  "ar": "24 يوليو 2026",
+  "vi": "24 thg 7, 2026"
+ },
+ "29 Sep 2026": {
+  "fr": "29 sept. 2026",
+  "es": "29 sep 2026",
+  "ru": "29 сент 2026",
+  "ar": "29 سبتمبر 2026",
+  "vi": "29 thg 9, 2026"
+ },
+ "28 Sep 2026": {
+  "fr": "28 sept. 2026",
+  "es": "28 sep 2026",
+  "ru": "28 сент 2026",
+  "ar": "28 سبتمبر 2026",
+  "vi": "28 thg 9, 2026"
+ },
+ "28 Aug 2026": {
+  "fr": "28 août 2026",
+  "es": "28 ago 2026",
+  "ru": "28 авг 2026",
+  "ar": "28 أغسطس 2026",
+  "vi": "28 thg 8, 2026"
+ },
+ "17 Sep 2026": {
+  "fr": "17 sept. 2026",
+  "es": "17 sep 2026",
+  "ru": "17 сент 2026",
+  "ar": "17 سبتمبر 2026",
+  "vi": "17 thg 9, 2026"
+ },
+ "15 Sep 2026": {
+  "fr": "15 sept. 2026",
+  "es": "15 sep 2026",
+  "ru": "15 сент 2026",
+  "ar": "15 سبتمبر 2026",
+  "vi": "15 thg 9, 2026"
+ },
+ "21 May 2026": {
+  "fr": "21 mai 2026",
+  "es": "21 may 2026",
+  "ru": "21 мая 2026",
+  "ar": "21 مايو 2026",
+  "vi": "21 thg 5, 2026"
+ },
+ "18 Jun 2026": {
+  "fr": "18 juin 2026",
+  "es": "18 jun 2026",
+  "ru": "18 июн 2026",
+  "ar": "18 يونيو 2026",
+  "vi": "18 thg 6, 2026"
+ },
+ "15 May 2025": {
+  "fr": "15 mai 2025",
+  "es": "15 may 2025",
+  "ru": "15 мая 2025",
+  "ar": "15 مايو 2025",
+  "vi": "15 thg 5, 2025"
+ },
+ "18 Oct 2024": {
+  "fr": "18 oct. 2024",
+  "es": "18 oct 2024",
+  "ru": "18 окт 2024",
+  "ar": "18 أكتوبر 2024",
+  "vi": "18 thg 10, 2024"
+ },
+ "17 Apr 2026": {
+  "fr": "17 avr. 2026",
+  "es": "17 abr 2026",
+  "ru": "17 апр 2026",
+  "ar": "17 أبريل 2026",
+  "vi": "17 thg 4, 2026"
+ },
+ "26 Jun 2026": {
+  "fr": "26 juin 2026",
+  "es": "26 jun 2026",
+  "ru": "26 июн 2026",
+  "ar": "26 يونيو 2026",
+  "vi": "26 thg 6, 2026"
+ },
+ "12 Jun 2026": {
+  "fr": "12 juin 2026",
+  "es": "12 jun 2026",
+  "ru": "12 июн 2026",
+  "ar": "12 يونيو 2026",
+  "vi": "12 thg 6, 2026"
+ },
+ "22 Sep 2026": {
+  "fr": "22 sept. 2026",
+  "es": "22 sep 2026",
+  "ru": "22 сент 2026",
+  "ar": "22 سبتمبر 2026",
+  "vi": "22 thg 9, 2026"
+ },
+ "First Foreign Patient Completes Solid Tumour CAR-T and Is Discharged": {
+  "fr": "Premier patient étranger à achever un CAR-T en tumeur solide et à sortir de l'hôpital",
+  "es": "Primer paciente extranjero que completa un CAR-T para tumor sólido y recibe el alta",
+  "ru": "Первый иностранный пациент завершил CAR-T при солидной опухоли и выписан",
+  "ar": "أول مريض أجنبي يُكمل علاج CAR-T للورم الصلب ويخرج من المستشفى",
+  "vi": "Bệnh nhân nước ngoài đầu tiên hoàn tất CAR-T cho khối u đặc và xuất viện"
+ },
+ "When Two CAR-T Therapies Fail: Sequential Bispecific Antibody Achieves Disease Control": {
+  "fr": "Quand deux CAR-T échouent : un anticorps bispécifique séquentiel permet de contrôler la maladie",
+  "es": "Cuando fallan dos CAR-T: un anticuerpo biespecífico secuencial logra el control de la enfermedad",
+  "ru": "Когда два CAR-T не сработали: последовательное применение биспецифических антител даёт контроль над болезнью",
+  "ar": "عندما يفشل علاجان بـ CAR-T: جسم مضاد ثنائي النوعية يُستخدم بالتتابع يحقق السيطرة على المرض",
+  "vi": "Khi hai liệu pháp CAR-T thất bại: kháng thể lưỡng đặc dùng tuần tự giúp kiểm soát bệnh"
+ },
+ "CD7 CAR-T Bridged to Allo-HSCT Achieves 84.8% Two-Year Relapse-Free Survival in Children with R/R T-ALL/LBL": {
+  "fr": "Un CAR-T CD7 suivi d'une allogreffe de cellules souches offre 84,8 % de survie sans rechute à deux ans chez l'enfant atteint de T-ALL/LBL réfractaire ou en rechute",
+  "es": "El CAR-T CD7 seguido de trasplante alogénico logra un 84,8 % de supervivencia libre de recaída a dos años en niños con T-ALL/LBL refractaria o en recaída",
+  "ru": "CAR-T к CD7 с последующей аллогенной трансплантацией: 84,8 % безрецидивной выживаемости через два года у детей с рефрактерным или рецидивным T-ALL/LBL",
+  "ar": "CAR-T لـ CD7 يليه زرع خلايا جذعية من متبرع يحقق بقاءً خالياً من الانتكاس بنسبة 84.8% عند سنتين لدى الأطفال المصابين بـ T-ALL/LBL المنتكس أو المقاوم",
+  "vi": "CAR-T CD7 nối tiếp ghép tế bào gốc đồng loài đạt 84,8% sống không tái phát sau hai năm ở trẻ T-ALL/LBL kháng trị hoặc tái phát"
+ },
+ "48-Month Peritoneal Control with CLDN18.2 CAR-T in Advanced Gastric Cancer: From Unresectable to Conversion Surgery": {
+  "fr": "Contrôle péritonéal de 48 mois avec un CAR-T CLDN18.2 dans un cancer gastrique avancé : d'inopérable à chirurgie de conversion",
+  "es": "Control peritoneal de 48 meses con CAR-T CLDN18.2 en cáncer gástrico avanzado: de irresecable a cirugía de conversión",
+  "ru": "48 месяцев контроля перитонеального поражения на CAR-T к CLDN18.2 при распространённом раке желудка: от неоперабельности к конверсионной операции",
+  "ar": "سيطرة بريتونية لمدة 48 شهراً بفضل CAR-T المستهدف لـ CLDN18.2 في سرطان المعدة المتقدم: من غير قابل للاستئصال إلى جراحة تحويلية",
+  "vi": "Kiểm soát ổ bụng 48 tháng bằng CAR-T CLDN18.2 trong ung thư dạ dày tiến xa: từ không mổ được đến phẫu thuật chuyển đổi"
+ },
+ "Josh went home on 16 August after more than a month of treatment — the first international patient to finish CT041 therapy at Jiahui.": {
+  "fr": "Josh est rentré chez lui le 16 août après plus d'un mois de traitement — le premier patient international à terminer un traitement CT041 à Jiahui.",
+  "es": "Josh regresó a casa el 16 de agosto tras más de un mes de tratamiento: el primer paciente internacional en completar la terapia CT041 en Jiahui.",
+  "ru": "Джош вернулся домой 16 августа после более чем месяца лечения — первый иностранный пациент, завершивший терапию CT041 в Jiahui.",
+  "ar": "عاد جوش إلى منزله في 16 أغسطس بعد أكثر من شهر من العلاج — أول مريض دولي يُكمل علاج CT041 في جياهوي.",
+  "vi": "Josh về nhà ngày 16 tháng 8 sau hơn một tháng điều trị — bệnh nhân quốc tế đầu tiên hoàn tất liệu trình CT041 tại Jiahui."
+ },
+ "After a CD20 CAR-T and then a CD19/PD1/CD28 CAR-T both failed, a stepwise bispecific sequence brought refractory DLBCL back under control.": {
+  "fr": "Après l'échec d'un CAR-T CD20 puis d'un CAR-T CD19/PD1/CD28, une séquence progressive d'anticorps bispécifiques a ramené le lymphome B diffus à grandes cellules réfractaire sous contrôle.",
+  "es": "Tras el fracaso de un CAR-T CD20 y luego de un CAR-T CD19/PD1/CD28, una secuencia escalonada de anticuerpos biespecíficos volvió a controlar el linfoma B difuso de células grandes refractario.",
+  "ru": "После неудачи CAR-T к CD20, а затем CAR-T к CD19/PD1/CD28 поэтапное применение биспецифических антител вернуло рефрактерную ДВККЛ под контроль.",
+  "ar": "بعد فشل CAR-T لـ CD20 ثم CAR-T لـ CD19/PD1/CD28، أعاد تسلسل تدريجي من الأجسام المضادة ثنائية النوعية السيطرة على اللمفومة البائية الكبيرة المنتشرة المقاومة.",
+  "vi": "Sau khi CAR-T CD20 rồi CAR-T CD19/PD1/CD28 đều thất bại, phác đồ kháng thể lưỡng đặc theo từng bước đã đưa DLBCL kháng trị trở lại trong tầm kiểm soát."
+ },
+ "Twenty-three children with relapsed or refractory T-ALL went from CD7 CAR-T straight into allogeneic transplant; 84.8% were relapse-free at two years.": {
+  "fr": "Vingt-trois enfants atteints de T-ALL réfractaire ou en rechute sont passés directement du CAR-T CD7 à l'allogreffe ; 84,8 % étaient sans rechute à deux ans.",
+  "es": "Veintitrés niños con T-ALL refractaria o en recaída pasaron del CAR-T CD7 directamente al trasplante alogénico; el 84,8 % seguía sin recaída a los dos años.",
+  "ru": "Двадцать три ребёнка с рефрактерным или рецидивным T-ALL перешли от CAR-T к CD7 сразу к аллогенной трансплантации; 84,8 % оставались без рецидива через два года.",
+  "ar": "ثلاثة وعشرون طفلاً مصاباً بـ T-ALL المنتكس أو المقاوم انتقلوا من CAR-T لـ CD7 مباشرة إلى الزرع الخيفي، وكان 84.8% منهم خالياً من الانتكاس بعد سنتين.",
+  "vi": "Hai mươi ba trẻ T-ALL tái phát hoặc kháng trị chuyển thẳng từ CAR-T CD7 sang ghép đồng loài; 84,8% không tái phát sau hai năm."
+ },
+ "A 53-year-old with gastric cancer and peritoneal spread saw his PCI score fall from 9 to 0 within eight months, then reached surgery — still controlled at 48 months.": {
+  "fr": "Chez un patient de 53 ans atteint d'un cancer gastrique avec carcinose péritonéale, le score PCI est passé de 9 à 0 en huit mois, ouvrant la voie à la chirurgie — toujours contrôlé à 48 mois.",
+  "es": "Un paciente de 53 años con cáncer gástrico y diseminación peritoneal vio su índice PCI caer de 9 a 0 en ocho meses y llegó a la cirugía, aún controlado a los 48 meses.",
+  "ru": "У 53-летнего пациента с раком желудка и перитонеальным поражением индекс PCI снизился с 9 до 0 за восемь месяцев, что позволило провести операцию — контроль сохраняется 48 месяцев.",
+  "ar": "مريض يبلغ 53 عاماً ومصاب بسرطان المعدة مع انتشار بريتوني انخفض مؤشر PCI لديه من 9 إلى 0 خلال ثمانية أشهر، ثم وصل إلى الجراحة، ولا يزال المرض مضبوطاً بعد 48 شهراً.",
+  "vi": "Một bệnh nhân 53 tuổi ung thư dạ dày di căn phúc mạc có điểm PCI giảm từ 9 xuống 0 trong tám tháng, sau đó được phẫu thuật và vẫn kiểm soát tốt ở tháng thứ 48."
+ },
+ "See Partner Hospitals": {
+  "fr": "Voir les hôpitaux partenaires",
+  "es": "Ver hospitales asociados",
+  "ru": "Наши больницы-партнёры",
+  "ar": "اطّلع على المستشفيات الشريكة",
+  "vi": "Xem các bệnh viện đối tác"
+ },
+ "Read all 31 articles →": {
+  "fr": "Lire les 31 articles →",
+  "es": "Leer los 31 artículos →",
+  "ru": "Читать все 31 статью →",
+  "ar": "اقرأ المقالات الـ31 →",
+  "vi": "Đọc cả 31 bài →"
+ },
+ "From Our Hospital Network": {
+  "fr": "Les actualités de notre réseau hospitalier",
+  "es": "Desde nuestra red de hospitales",
+  "ru": "Из нашей сети клиник",
+  "ar": "من شبكة مستشفياتنا",
+  "vi": "Từ mạng lưới bệnh viện của chúng tôi"
+ },
+ "CAR-T Across Our Hospital Network": {
+  "fr": "Le CAR-T dans notre réseau hospitalier",
+  "es": "El CAR-T en nuestra red de hospitales",
+  "ru": "CAR-T в нашей сети клиник",
+  "ar": "CAR-T عبر شبكة مستشفياتنا",
+  "vi": "CAR-T trong mạng lưới bệnh viện của chúng tôi"
+ },
+ "CAR-T Across Our Hospital Network: 31 Partner Stories & Studies": {
+  "fr": "Le CAR-T dans notre réseau hospitalier : 31 récits et études de nos partenaires",
+  "es": "El CAR-T en nuestra red de hospitales: 31 historias y estudios de nuestros socios",
+  "ru": "CAR-T в нашей сети клиник: 31 история и исследование партнёров",
+  "ar": "CAR-T عبر شبكة مستشفياتنا: 31 قصة ودراسة من شركائنا",
+  "vi": "CAR-T trong mạng lưới bệnh viện của chúng tôi: 31 câu chuyện và nghiên cứu từ đối tác"
+ },
+ "Not Sure Which Centre Fits Your Case?": {
+  "fr": "Vous ne savez pas quel centre correspond à votre cas ?",
+  "es": "¿No sabe qué centro encaja con su caso?",
+  "ru": "Не знаете, какой центр подходит именно вам?",
+  "ar": "لست متأكداً من المركز المناسب لحالتك؟",
+  "vi": "Chưa rõ trung tâm nào phù hợp với ca bệnh của bạn?"
+ },
+ "Chongqing HYGEIA Hospital": {
+  "fr": "Hôpital HYGEIA de Chongqing",
+  "es": "Hospital HYGEIA de Chongqing",
+  "ru": "Больница HYGEIA в Чунцине",
+  "ar": "مستشفى HYGEIA في تشونغتشينغ",
+  "vi": "Bệnh viện HYGEIA Trùng Khánh"
+ },
+ "Shanghai SinoUnited Hospital": {
+  "fr": "Hôpital SinoUnited de Shanghai",
+  "es": "Hospital SinoUnited de Shanghái",
+  "ru": "Больница SinoUnited в Шанхае",
+  "ar": "مستشفى سينو يونايتد في شنغهاي",
+  "vi": "Bệnh viện SinoUnited Thượng Hải"
+ },
+ "Beijing Arion Cancer Hospital": {
+  "fr": "Hôpital oncologique Arion de Pékin",
+  "es": "Hospital oncológico Arion de Pekín",
+  "ru": "Онкологическая больница Arion в Пекине",
+  "ar": "مستشفى أريون للأورام في بكين",
+  "vi": "Bệnh viện Ung thư Arion Bắc Kinh"
+ },
+ "Jiahui International Hospital": {
+  "fr": "Hôpital international Jiahui",
+  "es": "Hospital Internacional Jiahui",
+  "ru": "Международная больница Jiahui",
+  "ar": "مستشفى جياهوي الدولي",
+  "vi": "Bệnh viện Quốc tế Jiahui"
+ },
+ "Beijing GOBROAD Boren Hospital": {
+  "fr": "Hôpital Boren GOBROAD de Pékin",
+  "es": "Hospital Boren GOBROAD de Pekín",
+  "ru": "Больница Boren GOBROAD в Пекине",
+  "ar": "مستشفى بورن غوبرود في بكين",
+  "vi": "Bệnh viện Boren GOBROAD Bắc Kinh"
+ },
+ "Beijing · GOBROAD Medical Group": {
+  "fr": "Pékin · Groupe médical GOBROAD",
+  "es": "Pekín · Grupo Médico GOBROAD",
+  "ru": "Пекин · Медицинская группа GOBROAD",
+  "ar": "بكين · مجموعة GOBROAD الطبية",
+  "vi": "Bắc Kinh · Tập đoàn Y tế GOBROAD"
+ },
+ "Guangzhou Concord Cancer Center": {
+  "fr": "Centre oncologique Concord de Guangzhou",
+  "es": "Centro Oncológico Concord de Guangzhou",
+  "ru": "Онкологический центр Concord в Гуанчжоу",
+  "ar": "مركز كونكورد للأورام في قوانغتشو",
+  "vi": "Trung tâm Ung thư Concord Quảng Châu"
+ },
+ "Beijing Jingdu Children's Hospital": {
+  "fr": "Hôpital pédiatrique Jingdu de Pékin",
+  "es": "Hospital Infantil Jingdu de Pekín",
+  "ru": "Детская больница Jingdu в Пекине",
+  "ar": "مستشفى جينغدو للأطفال في بكين",
+  "vi": "Bệnh viện Nhi đồng Jingdu Bắc Kinh"
+ },
+ "Foshan Chancheng Hospital (Fosun Health)": {
+  "fr": "Hôpital Chancheng de Foshan (Fosun Health)",
+  "es": "Hospital Chancheng de Foshan (Fosun Health)",
+  "ru": "Больница Chancheng в Фошане (Fosun Health)",
+  "ar": "مستشفى تشانتشنغ في فوشان (فوسون هيلث)",
+  "vi": "Bệnh viện Chancheng Phật Sơn (Fosun Health)"
+ },
+ "19 Studies from One Hospital at APBMT 2026": {
+  "fr": "19 études d'un même hôpital à l'APBMT 2026",
+  "es": "19 estudios de un solo hospital en el APBMT 2026",
+  "ru": "19 исследований одной клиники на APBMT 2026",
+  "ar": "19 دراسة من مستشفى واحد في APBMT 2026",
+  "vi": "19 nghiên cứu từ một bệnh viện tại APBMT 2026"
+ },
+ "LM101 CD19 CAR-T Receives IND Approval in China": {
+  "fr": "Le CAR-T CD19 LM101 obtient une autorisation IND en Chine",
+  "es": "El CAR-T CD19 LM101 recibe aprobación de IND en China",
+  "ru": "CAR-T к CD19 LM101 получил разрешение IND в Китае",
+  "ar": "CAR-T لـ CD19 باسم LM101 يحصل على موافقة IND في الصين",
+  "vi": "CAR-T CD19 LM101 được chấp thuận IND tại Trung Quốc"
+ },
+ "Nearly 9 Years in Complete Remission After CAR-T for B-ALL": {
+  "fr": "Près de 9 ans de rémission complète après un CAR-T pour LAL-B",
+  "es": "Casi 9 años en remisión completa tras un CAR-T para LLA-B",
+  "ru": "Почти 9 лет полной ремиссии после CAR-T при В-ОЛЛ",
+  "ar": "قرابة 9 سنوات في هدوء كامل بعد CAR-T لسرطان الدم اللمفاوي الحاد البائي",
+  "vi": "Gần 9 năm thuyên giảm hoàn toàn sau CAR-T cho B-ALL"
+ },
+ "SinoUnited Opens a CAR-T International Consultation Centre": {
+  "fr": "SinoUnited ouvre un centre international de consultation CAR-T",
+  "es": "SinoUnited abre un centro internacional de consulta de CAR-T",
+  "ru": "SinoUnited открывает международный центр консультаций по CAR-T",
+  "ar": "سينو يونايتد يفتتح مركزاً دولياً للاستشارات حول CAR-T",
+  "vi": "SinoUnited mở trung tâm tư vấn CAR-T quốc tế"
+ },
+ "MDT-Guided LM101 CD19 CAR-T in High-Risk CD5-Positive DLBCL": {
+  "fr": "CAR-T CD19 LM101 guidé par RCP dans un LDGCB CD5-positif à haut risque",
+  "es": "CAR-T CD19 LM101 guiado por comité multidisciplinar en LDCGB CD5-positivo de alto riesgo",
+  "ru": "CAR-T к CD19 LM101 под руководством консилиума при CD5-положительной ДВККЛ высокого риска",
+  "ar": "CAR-T لـ CD19 باسم LM101 بقيادة فريق متعدد التخصصات في اللمفومة البائية الكبيرة المنتشرة عالية الخطورة الإيجابية لـ CD5",
+  "vi": "CAR-T CD19 LM101 theo hội chẩn đa chuyên khoa ở DLBCL CD5 dương tính nguy cơ cao"
+ },
+ "SinoUnited Completes Its First International CAR-T Patients": {
+  "fr": "SinoUnited traite ses premiers patients internationaux par CAR-T",
+  "es": "SinoUnited trata a sus primeros pacientes internacionales con CAR-T",
+  "ru": "SinoUnited провела CAR-T первым иностранным пациентам",
+  "ar": "سينو يونايتد يُكمل علاج أول مرضاه الدوليين بـ CAR-T",
+  "vi": "SinoUnited hoàn tất các bệnh nhân CAR-T quốc tế đầu tiên"
+ },
+ "Phase III Trial Open for Children with Immune Thrombocytopenia": {
+  "fr": "Un essai de phase III ouvert aux enfants atteints de thrombopénie immunologique",
+  "es": "Ensayo de fase III abierto para niños con trombocitopenia inmune",
+  "ru": "Открыт набор детей с иммунной тромбоцитопенией в исследование III фазы",
+  "ar": "تجربة من المرحلة الثالثة مفتوحة للأطفال المصابين بنقص الصفيحات المناعي",
+  "vi": "Thử nghiệm pha III mở cho trẻ mắc giảm tiểu cầu miễn dịch"
+ },
+ "Across Oceans for Life: An Australian Family's Transplant Journey": {
+  "fr": "Par-delà les océans : le parcours de greffe d'une famille australienne",
+  "es": "Cruzando océanos por la vida: la historia de trasplante de una familia australiana",
+  "ru": "Через океаны ради жизни: история трансплантации австралийской семьи",
+  "ar": "عبر المحيطات من أجل الحياة: رحلة زرع لعائلة أسترالية",
+  "vi": "Vượt đại dương vì sự sống: hành trình ghép của một gia đình Australia"
+ },
+ "Dual-Target CAR-T FKC289 Cleared for Trials in Rare AL Amyloidosis": {
+  "fr": "Le CAR-T double cible FKC289 autorisé à l'essai dans l'amylose AL rare",
+  "es": "El CAR-T de doble diana FKC289 autorizado a ensayo en amiloidosis AL rara",
+  "ru": "Двухтаргетный CAR-T FKC289 допущен к испытаниям при редком AL-амилоидозе",
+  "ar": "CAR-T ثنائي الهدف FKC289 يُصرّح بتجربته في الداء النشواني AL النادر",
+  "vi": "CAR-T hai đích FKC289 được chấp thuận thử nghiệm trong bệnh amyloidosis AL hiếm gặp"
+ },
+ "CLDN18.2 Targeted Therapy and Solid-Tumour CAR-T in Gastric Cancer": {
+  "fr": "Thérapie ciblée CLDN18.2 et CAR-T en tumeur solide dans le cancer gastrique",
+  "es": "Terapia dirigida a CLDN18.2 y CAR-T en tumor sólido en cáncer gástrico",
+  "ru": "Таргетная терапия CLDN18.2 и CAR-T при солидных опухолях при раке желудка",
+  "ar": "العلاج الموجه ضد CLDN18.2 وCAR-T للأورام الصلبة في سرطان المعدة",
+  "vi": "Liệu pháp nhắm đích CLDN18.2 và CAR-T khối u đặc trong ung thư dạ dày"
+ },
+ "Two Research Achievements Presented at the 2026 EHA Annual Meeting": {
+  "fr": "Deux travaux présentés au congrès annuel de l'EHA 2026",
+  "es": "Dos trabajos presentados en el congreso anual de la EHA 2026",
+  "ru": "Две работы представлены на ежегодном конгрессе EHA 2026",
+  "ar": "إنجازان بحثيان يُعرضان في الاجتماع السنوي للجمعية الأوروبية لأمراض الدم 2026",
+  "vi": "Hai công trình được trình bày tại hội nghị thường niên EHA 2026"
+ },
+ "Long-Term CAR-T Data from China Rewrite Lymphoma Treatment Standards": {
+  "fr": "Les données chinoises à long terme du CAR-T réécrivent les standards du lymphome",
+  "es": "Los datos chinos a largo plazo del CAR-T reescriben los estándares del linfoma",
+  "ru": "Долгосрочные китайские данные по CAR-T меняют стандарты лечения лимфом",
+  "ar": "بيانات CAR-T الصينية طويلة الأمد تعيد كتابة معايير علاج اللمفومة",
+  "vi": "Dữ liệu CAR-T dài hạn từ Trung Quốc viết lại tiêu chuẩn điều trị lymphoma"
+ },
+ "China's CAR-T Goes Global: MOU with Saudi Arabia's Fakeeh Care Group": {
+  "fr": "Le CAR-T chinois s'exporte : protocole d'accord avec le groupe saoudien Fakeeh Care",
+  "es": "El CAR-T chino se globaliza: acuerdo con el grupo saudí Fakeeh Care",
+  "ru": "Китайский CAR-T выходит на глобальный рынок: меморандум с саудовской Fakeeh Care",
+  "ar": "CAR-T الصيني يعبر الحدود: مذكرة تفاهم مع مجموعة فقيه للرعاية الصحية السعودية",
+  "vi": "CAR-T Trung Quốc vươn ra toàn cầu: biên bản ghi nhớ với Fakeeh Care (Ả Rập Xê Út)"
+ },
+ "China's CAR-T Pioneer Dr. Hao Siguo Joins as Director of Haematology": {
+  "fr": "Le Dr Hao Siguo, pionnier chinois du CAR-T, devient chef du service d'hématologie",
+  "es": "El Dr. Hao Siguo, pionero chino del CAR-T, se incorpora como jefe de Hematología",
+  "ru": "Д-р Хао Сыго, пионер CAR-T в Китае, возглавил отделение гематологии",
+  "ar": "الدكتور هاو سيغو، رائد CAR-T في الصين، ينضم مديراً لقسم أمراض الدم",
+  "vi": "TS. Hao Siguo, người tiên phong CAR-T Trung Quốc, về làm Trưởng khoa Huyết học"
+ },
+ "Germline Predisposition Genes Guide HSCT Outcomes and Donor Selection": {
+  "fr": "Les gènes de prédisposition constitutionnelle orientent les résultats de greffe et le choix du donneur",
+  "es": "Los genes de predisposición germinal orientan los resultados del trasplante y la elección del donante",
+  "ru": "Гены наследственной предрасположенности влияют на исходы трансплантации и выбор донора",
+  "ar": "جينات الاستعداد الوراثي توجه نتائج زرع الخلايا الجذعية واختيار المتبرع",
+  "vi": "Gen di truyền định hướng kết quả ghép và lựa chọn người hiến"
+ },
+ "Yikaida Marks Five Years: The Milestone Road of CAR-T Therapy in China": {
+  "fr": "Yikaida fête ses cinq ans : le chemin parcouru par le CAR-T en Chine",
+  "es": "Yikaida cumple cinco años: el camino recorrido por el CAR-T en China",
+  "ru": "Yikaida: пять лет — путь CAR-T в Китае",
+  "ar": "ييكايدا تحتفل بخمس سنوات: الطريق الحافل لعلاج CAR-T في الصين",
+  "vi": "Yikaida tròn năm năm: chặng đường CAR-T tại Trung Quốc"
+ },
+ "\"Absolutely Excellent\" — A Bangladeshi Lymphoma Patient's Journey at GCCC": {
+  "fr": "« Absolument excellent » — le parcours d'une patiente bangladaise atteinte de lymphome au GCCC",
+  "es": "«Absolutamente excelente»: la experiencia de una paciente bangladesí con linfoma en el GCCC",
+  "ru": "«Абсолютно отлично» — история пациентки из Бангладеш с лимфомой в GCCC",
+  "ar": "«ممتاز تماماً» — رحلة مريضة بنغلاديشية مصابة باللمفومة في مركز GCCC",
+  "vi": "“Hoàn toàn tuyệt vời” — hành trình của một bệnh nhân lymphoma Bangladesh tại GCCC"
+ },
+ "Nine Years of Battle: A \"Little Drum King\" Beats Wiskott-Aldrich Syndrome": {
+  "fr": "Neuf ans de combat : un « petit roi du tambour » vainc le syndrome de Wiskott-Aldrich",
+  "es": "Nueve años de lucha: un «pequeño rey del tambor» vence el síndrome de Wiskott-Aldrich",
+  "ru": "Девять лет борьбы: «маленький король барабанов» победил синдром Вискотта — Олдрича",
+  "ar": "تسع سنوات من الكفاح: «ملك الطبل الصغير» يهزم متلازمة ويسكوت ـ ألدريتش",
+  "vi": "Chín năm chiến đấu: “ông vua trống nhỏ” chiến thắng hội chứng Wiskott-Aldrich"
+ },
+ "Multiple Myeloma CAR-T Trial Recruiting Patients Resistant to Lenalidomide": {
+  "fr": "Essai CAR-T dans le myélome multiple : recrutement de patients résistants au lénalidomide",
+  "es": "Ensayo CAR-T en mieloma múltiple: reclutamiento de pacientes resistentes a lenalidomida",
+  "ru": "Испытание CAR-T при миеломе: набор пациентов с резистентностью к леналидомиду",
+  "ar": "تجربة CAR-T في الورم النقوي المتعدد تستقطب مرضى مقاومين لليناليدوميد",
+  "vi": "Thử nghiệm CAR-T đa u tủy tuyển bệnh nhân kháng lenalidomide"
+ },
+ "World's First Solid Tumour CAR-T: First Foreign Patient Apheresis Completed": {
+  "fr": "Premier CAR-T au monde en tumeur solide : première aphérèse réalisée chez un patient étranger",
+  "es": "Primer CAR-T del mundo para tumor sólido: primera aféresis realizada en un paciente extranjero",
+  "ru": "Первый в мире CAR-T при солидной опухоли: выполнен первый аферез у иностранного пациента",
+  "ar": "أول CAR-T في العالم للورم الصلب: إتمام أول عملية فصل خلايا لمريض أجنبي",
+  "vi": "CAR-T khối u đặc đầu tiên trên thế giới: hoàn tất tách tế bào cho bệnh nhân nước ngoài đầu tiên"
+ },
+ "11-Year PCNSL Survivor: Autologous Transplant with Residual Disease Plus CAR-T": {
+  "fr": "Onze ans de survie dans un lymphome primitif du SNC : autogreffe avec maladie résiduelle puis CAR-T",
+  "es": "Once años de supervivencia en linfoma primario del SNC: autotrasplante con enfermedad residual más CAR-T",
+  "ru": "11 лет после лимфомы ЦНС: аутологичная трансплантация с остаточной болезнью плюс CAR-T",
+  "ar": "ناجٍ من لمفومة الجهاز العصبي المركزي منذ 11 عاماً: زرع ذاتي مع مرض متبقٍ ثم CAR-T",
+  "vi": "Sống 11 năm sau lymphoma nguyên phát hệ thần kinh trung ương: ghép tự thân khi còn bệnh rồi CAR-T"
+ },
+ "From Palliative Care to a Second Chance: A Pakistani Lymphoma Patient's CAR-T Journey": {
+  "fr": "Des soins palliatifs à une seconde chance : le parcours CAR-T d'un patient pakistanais atteint de lymphome",
+  "es": "De cuidados paliativos a una segunda oportunidad: el camino CAR-T de un paciente paquistaní con linfoma",
+  "ru": "От паллиативной помощи ко второму шансу: путь к CAR-T пациента из Пакистана с лимфомой",
+  "ar": "من الرعاية التلطيفية إلى فرصة ثانية: رحلة مريض باكستاني مصاب باللمفومة إلى CAR-T",
+  "vi": "Từ chăm sóc giảm nhẹ đến cơ hội thứ hai: hành trình CAR-T của một bệnh nhân lymphoma Pakistan"
+ },
+ "What our partner hospitals are publishing about CAR-T, lymphoma and transplant in China.": {
+  "fr": "Ce que publient nos hôpitaux partenaires sur le CAR-T, le lymphome et la greffe en Chine.",
+  "es": "Lo que publican nuestros hospitales asociados sobre CAR-T, linfoma y trasplante en China.",
+  "ru": "О чём пишут наши больницы-партнёры: CAR-T, лимфомы и трансплантация в Китае.",
+  "ar": "ما تنشره مستشفياتنا الشريكة عن CAR-T واللمفومة والزرع في الصين.",
+  "vi": "Những gì các bệnh viện đối tác của chúng tôi công bố về CAR-T, lymphoma và ghép tế bào gốc tại Trung Quốc."
+ },
+ "Given Four Months to Live: Thirteen Years On, a Lymphoma Patient Walks Out of the Tunnel": {
+  "fr": "Condamnée à quatre mois : treize ans plus tard, une patiente atteinte de lymphome sort du tunnel",
+  "es": "Con cuatro meses de vida: trece años después, una paciente con linfoma sale del túnel",
+  "ru": "«Четыре месяца» — спустя тринадцать лет пациентка с лимфомой вышла из туннеля",
+  "ar": "حكم عليها بأربعة أشهر: بعد ثلاثة عشر عاماً، مريضة لمفومة تخرج من النفق",
+  "vi": "Bị tiên lượng bốn tháng: mười ba năm sau, một bệnh nhân lymphoma bước ra khỏi đường hầm"
+ },
+ "Seemingly Dangerous, Yet Highly Curable: A Guide to Primary Mediastinal Large B-Cell Lymphoma": {
+  "fr": "D'apparence redoutable, mais très curable : guide du lymphome B diffus à grandes cellules primitif du médiastin",
+  "es": "Aparentemente peligroso pero muy curable: guía del linfoma B difuso de células grandes primario del mediastino",
+  "ru": "Выглядит грозно, но хорошо излечим: руководство по первичной медиастинальной В-крупноклеточной лимфоме",
+  "ar": "يبدو خطيراً لكنه قابل للشفاء بدرجة عالية: دليل اللمفومة البائية الكبيرة المنتشرة الأولية في المنصف",
+  "vi": "Trông nguy hiểm nhưng rất có thể chữa khỏi: hướng dẫn về lymphoma tế bào B lớn nguyên phát trung thất"
+ },
+ "A large private oncology group whose lymphoma follow-up archive goes back more than a decade.": {
+  "fr": "Un grand groupe oncologique privé dont les archives de suivi des lymphomes remontent à plus de dix ans.",
+  "es": "Un gran grupo oncológico privado cuyos archivos de seguimiento de linfomas superan la década.",
+  "ru": "Крупная частная онкологическая группа, чей архив наблюдения за лимфомами насчитывает более десяти лет.",
+  "ar": "مجموعة أورام خاصة كبيرة تمتد سجلات متابعة اللمفومة فيها إلى أكثر من عقد.",
+  "vi": "Một tập đoàn ung thư tư nhân lớn với hồ sơ theo dõi lymphoma kéo dài hơn một thập kỷ."
+ },
+ "Relapse Is the Leading Cause of Treatment Failure After Allo-HSCT in WT1-Mutated Blood Cancers": {
+  "fr": "La rechute est la première cause d'échec après allogreffe dans les hémopathies à mutation WT1",
+  "es": "La recaída es la principal causa de fracaso tras el trasplante alogénico en neoplasias hematológicas con mutación WT1",
+  "ru": "Рецидив — главная причина неудачи после аллогенной трансплантации при гемобластозах с мутацией WT1",
+  "ar": "الانتكاس هو السبب الأول لفشل العلاج بعد الزرع الخيفي في أورام الدم الحاملة لطفرة WT1",
+  "vi": "Tái phát là nguyên nhân thất bại hàng đầu sau ghép đồng loài ở bệnh máu mang đột biến WT1"
+ },
+ "IMS 2026: Precision Treatment of Extramedullary Myeloma, from Static Targets to Dynamic Imaging": {
+  "fr": "IMS 2026 : le traitement de précision du myélome extramédullaire, des cibles statiques à l'imagerie dynamique",
+  "es": "IMS 2026: tratamiento de precisión del mieloma extramedular, de las dianas estáticas a la imagen dinámica",
+  "ru": "IMS 2026: прецизионное лечение экстрамедуллярной миеломы — от статических мишеней к динамической визуализации",
+  "ar": "IMS 2026: العلاج الدقيق للورم النقوي خارج النخاع، من الأهداف الثابتة إلى التصوير الديناميكي",
+  "vi": "IMS 2026: điều trị chính xác đa u tủy ngoài tủy, từ đích tĩnh đến hình ảnh động"
+ },
+ "World's First Solid-Tumour CAR-T Reaches the Clinic: Greater Bay Area's First T-Cell Collection": {
+  "fr": "Le premier CAR-T au monde en tumeur solide entre en clinique : première collecte de cellules T dans la Grande Baie",
+  "es": "El primer CAR-T del mundo para tumor sólido llega a la clínica: primera recolección de células T en la Gran Bahía",
+  "ru": "Первый в мире CAR-T при солидной опухоли вошёл в клинику: первый забор Т-клеток в районе Большого залива",
+  "ar": "أول CAR-T في العالم للورم الصلب يصل إلى العيادة: أول جمع لخلايا T في منطقة الخليج الكبير",
+  "vi": "CAR-T khối u đặc đầu tiên trên thế giới vào lâm sàng: lần tách tế bào T đầu tiên tại vùng Vịnh lớn"
+ },
+ "Two paediatric haematology studies from the hospital's transplant team presented as posters in Stockholm.": {
+  "fr": "Deux études d'hématologie pédiatrique de l'équipe de greffe de l'hôpital présentées en posters à Stockholm.",
+  "es": "Dos estudios de hematología pediátrica del equipo de trasplante del hospital presentados como pósteres en Estocolmo.",
+  "ru": "Два исследования по детской гематологии от трансплантационной команды клиники представлены постерами в Стокгольме.",
+  "ar": "دراستان في أمراض دم الأطفال من فريق الزرع في المستشفى عُرضتا كملصقات في ستوكهولم.",
+  "vi": "Hai nghiên cứu huyết học nhi của ê-kíp ghép bệnh viện được trình bày dưới dạng poster tại Stockholm."
+ },
+ "How one target came to dominate gastric cancer: an antibody with a price cut, and a CAR-T built on the same biology.": {
+  "fr": "Comment une seule cible s'est imposée dans le cancer gastrique : un anticorps dont le prix a baissé et un CAR-T bâti sur la même biologie.",
+  "es": "Cómo una sola diana llegó a dominar el cáncer gástrico: un anticuerpo con recorte de precio y un CAR-T construido sobre la misma biología.",
+  "ru": "Как одна мишень подчинила себе рак желудка: антитело со сниженной ценой и CAR-T, построенный на той же биологии.",
+  "ar": "كيف هيمن هدف واحد على سرطان المعدة: جسم مضاد بخفض في السعر وCAR-T مبني على المنطق الحيوي نفسه.",
+  "vi": "Vì sao một đích duy nhất thống trị ung thư dạ dày: một kháng thể vừa giảm giá và một CAR-T dựa trên cùng nền sinh học."
+ },
+ "One of the earliest Shanghai hospitals to build a CAR-T pathway designed end to end for patients coming from abroad.": {
+  "fr": "L'un des premiers hôpitaux de Shanghai à avoir conçu un parcours CAR-T de bout en bout pour les patients venus de l'étranger.",
+  "es": "Uno de los primeros hospitales de Shanghái en construir una vía CAR-T diseñada de principio a fin para pacientes del extranjero.",
+  "ru": "Одна из первых больниц Шанхая, создавшая маршрут CAR-T целиком под пациентов из-за рубежа.",
+  "ar": "من أوائل مستشفيات شنغهاي التي بنت مساراً متكاملاً لعلاج CAR-T مصمماً للمرضى القادمين من الخارج.",
+  "vi": "Một trong những bệnh viện Thượng Hải đầu tiên xây dựng quy trình CAR-T trọn vẹn cho bệnh nhân từ nước ngoài."
+ },
+ "From eight days old, transfusions kept him alive. Nine years later a transplant gave him a childhood outside the ward.": {
+  "fr": "Depuis l'âge de huit jours, les transfusions le maintenaient en vie. Neuf ans plus tard, une greffe lui a rendu une enfance hors des murs du service.",
+  "es": "Desde los ocho días de vida, las transfusiones lo mantenían vivo. Nueve años después, un trasplante le devolvió una infancia fuera de la planta.",
+  "ru": "С восьми дней жизни его спасали переливания. Девять лет спустя трансплантация вернула ему детство вне больничной палаты.",
+  "ar": "منذ اليوم الثامن من عمره أبقت عمليات نقل الدم حياته. وبعد تسع سنوات منحه الزرع طفولة خارج غرفة المستشفى.",
+  "vi": "Từ khi mới tám ngày tuổi, truyền máu đã giữ em sống. Chín năm sau, một ca ghép trả lại cho em tuổi thơ ngoài bốn tường bệnh viện."
+ },
+ "From a first consultation to a 4:30 am airport send-off, the full arc of one patient's lymphoma treatment in Guangzhou.": {
+  "fr": "De la première consultation à un départ pour l'aéroport à 4 h 30 du matin, tout l'arc d'un traitement de lymphome à Guangzhou.",
+  "es": "Desde la primera consulta hasta una despedida en el aeropuerto a las 4:30 de la mañana: el arco completo de un tratamiento de linfoma en Guangzhou.",
+  "ru": "От первой консультации до проводов в аэропорту в 4:30 утра — весь путь лечения лимфомы в Гуанчжоу.",
+  "ar": "من الاستشارة الأولى إلى توديع في المطار عند الرابعة والنصف صباحاً: قوس كامل لرحلة علاج لمفومة في قوانغتشو.",
+  "vi": "Từ lần tư vấn đầu tiên đến buổi tiễn ra sân bay lúc 4h30 sáng: trọn vẹn hành trình điều trị lymphoma tại Quảng Châu."
+ },
+ "A paediatric haematology centre where the Beijing Protocol for haploidentical transplant is standard care, not a last resort.": {
+  "fr": "Un centre d'hématologie pédiatrique où le protocole de Pékin pour la greffe haplo-identique relève du soin courant, et non du dernier recours.",
+  "es": "Un centro de hematología pediátrica donde el Protocolo de Pekín para el trasplante haploidéntico es práctica habitual, no último recurso.",
+  "ru": "Центр детской гематологии, где Пекинский протокол гаплоидентичной трансплантации — рутина, а не последняя надежда.",
+  "ar": "مركز لأمراض دم الأطفال يُعدّ فيه «بروتوكول بكين» للزرع نصف المتوافق رعاية معتادة لا خياراً أخيراً.",
+  "vi": "Trung tâm huyết học nhi nơi Phác đồ Bắc Kinh cho ghép bán phù hợp là điều trị thường quy, không phải giải pháp cuối."
+ },
+ "31 articles on CAR-T, lymphoma and stem-cell transplant, published by the hospitals we work with — and linked to the original.": {
+  "fr": "31 articles sur le CAR-T, le lymphome et la greffe de cellules souches, publiés par les hôpitaux avec lesquels nous travaillons — et liés à l'original.",
+  "es": "31 artículos sobre CAR-T, linfoma y trasplante de células madre, publicados por los hospitales con los que trabajamos y enlazados al original.",
+  "ru": "31 статья о CAR-T, лимфомах и трансплантации стволовых клеток от больниц, с которыми мы работаем, — со ссылкой на оригинал.",
+  "ar": "31 مقالاً عن CAR-T واللمفومة وزرع الخلايا الجذعية، تنشرها المستشفيات التي نعمل معها — مع رابط إلى الأصل.",
+  "vi": "31 bài viết về CAR-T, lymphoma và ghép tế bào gốc do các bệnh viện chúng tôi hợp tác công bố — kèm liên kết tới bản gốc."
+ },
+ "A plain-language science note on what an IND clearance does and does not mean for a new CD19 CAR-T in relapsed B-cell lymphoma.": {
+  "fr": "Une note scientifique en langage clair sur ce que signifie — et ne signifie pas — une autorisation IND pour un nouveau CAR-T CD19 dans le lymphome B en rechute.",
+  "es": "Una nota científica en lenguaje claro sobre lo que significa —y no significa— una autorización IND para un nuevo CAR-T CD19 en linfoma B en recaída.",
+  "ru": "Понятная научная заметка о том, что значит — и чего не значит — разрешение IND для нового CAR-T к CD19 при рецидивной В-клеточной лимфоме.",
+  "ar": "ملاحظة علمية بلغة مبسطة عمّا تعنيه موافقة IND وما لا تعنيه بالنسبة لـ CAR-T جديد لـ CD19 في اللمفومة البائية المنتكسة.",
+  "vi": "Ghi chú khoa học dễ hiểu về ý nghĩa — và giới hạn — của việc được chấp thuận IND cho một CAR-T CD19 mới trong lymphoma tế bào B tái phát."
+ },
+ "A cancer centre in southern China that handles the logistics of a long-distance treatment journey as carefully as the medicine.": {
+  "fr": "Un centre oncologique du sud de la Chine qui gère la logistique d'un long voyage de soins avec autant de soin que la médecine.",
+  "es": "Un centro oncológico del sur de China que cuida la logística de un viaje largo de tratamiento tanto como la medicina.",
+  "ru": "Онкологический центр на юге Китая, где логистику долгого пути к лечению продумывают так же тщательно, как и саму терапию.",
+  "ar": "مركز أورام في جنوب الصين يعتني بلوجستيات رحلة العلاج الطويلة بالعناية نفسها التي يوليها للعلاج.",
+  "vi": "Trung tâm ung thư ở miền nam Trung Quốc xử lý hậu cần cho hành trình điều trị dài ngày kỹ lưỡng như chính việc điều trị."
+ },
+ "On 6 July 2026 a 59-year-old from New Zealand became the first foreign patient to complete T-cell collection for CT041 in China.": {
+  "fr": "Le 6 juillet 2026, un Néo-Zélandais de 59 ans est devenu le premier patient étranger à réaliser une collecte de cellules T pour le CT041 en Chine.",
+  "es": "El 6 de julio de 2026, un neozelandés de 59 años se convirtió en el primer paciente extranjero en completar una recolección de células T para CT041 en China.",
+  "ru": "6 июля 2026 года 59-летний пациент из Новой Зеландии стал первым иностранцем, у которого в Китае выполнили забор Т-клеток для CT041.",
+  "ar": "في 6 يوليو 2026 أصبح مريض نيوزيلندي يبلغ 59 عاماً أول مريض أجنبي يُكمل جمع خلايا T لعلاج CT041 في الصين.",
+  "vi": "Ngày 6 tháng 7 năm 2026, một bệnh nhân 59 tuổi người New Zealand trở thành bệnh nhân nước ngoài đầu tiên hoàn tất tách tế bào T cho CT041 tại Trung Quốc."
+ },
+ "PMBCL grows fast and looks alarming on imaging, but with the right sequence it is one of the more curable large B-cell lymphomas.": {
+  "fr": "Le PMBCL évolue vite et impressionne à l'imagerie, mais avec la bonne séquence il fait partie des lymphomes B à grandes cellules les plus curables.",
+  "es": "El PMBCL crece rápido e impresiona en las imágenes, pero con la secuencia adecuada es uno de los linfomas B de células grandes más curables.",
+  "ru": "ПМВКЛ растёт быстро и грозно выглядит на снимках, но при правильной последовательности это одна из наиболее излечимых крупноклеточных В-лимфом.",
+  "ar": "اللمفومة البائية الكبيرة الأولية في المنصف تنمو بسرعة وتبدو مقلقة في التصوير، لكنها مع التسلسل الصحيح من أكثر اللمفومات البائية الكبيرة قابلية للشفاء.",
+  "vi": "PMBCL phát triển nhanh và trông đáng sợ trên hình ảnh, nhưng với trình tự điều trị đúng, đây là một trong những lymphoma tế bào B lớn dễ chữa khỏi hơn."
+ },
+ "A myeloma patient from the UK and a high-risk lymphoma patient were treated and discharged, with follow-up confirming the response.": {
+  "fr": "Un patient britannique atteint de myélome et un patient à haut risque atteint de lymphome ont été traités et sont sortis, le suivi confirmant la réponse.",
+  "es": "Un paciente británico con mieloma y un paciente con linfoma de alto riesgo fueron tratados y dados de alta, con seguimiento que confirmó la respuesta.",
+  "ru": "Пациент из Великобритании с миеломой и пациент с лимфомой высокого риска прошли лечение и были выписаны; наблюдение подтвердило ответ.",
+  "ar": "مريض بريطاني مصاب بالورم النقوي ومريض لمفومة عالي الخطورة تلقيا العلاج وخرجا من المستشفى، وأكدت المتابعة الاستجابة.",
+  "vi": "Một bệnh nhân đa u tủy từ Anh và một bệnh nhân lymphoma nguy cơ cao đã được điều trị, xuất viện và theo dõi xác nhận đáp ứng."
+ },
+ "Stage IV primary pulmonary lymphoma, diagnosed in 2012 with a four-month prognosis. She is still in follow-up fourteen years later.": {
+  "fr": "Un lymphome pulmonaire primitif de stade IV, diagnostiqué en 2012 avec un pronostic de quatre mois. Elle est toujours suivie quatorze ans plus tard.",
+  "es": "Linfoma pulmonar primario en estadio IV, diagnosticado en 2012 con un pronóstico de cuatro meses. Sigue en seguimiento catorce años después.",
+  "ru": "Первичная лимфома лёгкого IV стадии, диагностированная в 2012 году с прогнозом в четыре месяца. Спустя четырнадцать лет она по-прежнему под наблюдением.",
+  "ar": "لمفومة رئوية أولية من المرحلة الرابعة شُخّصت عام 2012 بتشخيص يمنحها أربعة أشهر. ولا تزال تحت المتابعة بعد أربعة عشر عاماً.",
+  "vi": "Lymphoma phổi nguyên phát giai đoạn IV, chẩn đoán năm 2012 với tiên lượng bốn tháng. Mười bốn năm sau, bệnh nhân vẫn đang được theo dõi."
+ },
+ "Four myeloma studies accepted at IMS 2026, focused on the hardest groups — extramedullary disease and secondary plasma cell leukaemia.": {
+  "fr": "Quatre études sur le myélome acceptées à l'IMS 2026, centrées sur les formes les plus difficiles : maladie extramédullaire et leucémie à plasmocytes secondaire.",
+  "es": "Cuatro estudios de mieloma aceptados en IMS 2026, centrados en los grupos más difíciles: enfermedad extramedular y leucemia de células plasmáticas secundaria.",
+  "ru": "Четыре исследования по миеломе приняты на IMS 2026 — о самых сложных группах: экстрамедуллярной болезни и вторичном плазмоклеточном лейкозе.",
+  "ar": "أربع دراسات عن الورم النقوي قُبلت في IMS 2026، تركز على أصعب الفئات: المرض خارج النخاع وابيضاض الخلايا البلازمية الثانوي.",
+  "vi": "Bốn nghiên cứu đa u tủy được nhận tại IMS 2026, tập trung vào nhóm khó nhất: bệnh ngoài tủy và bạch cầu tương bào thứ phát."
+ },
+ "The hospital closest to the manufacturing side of Chinese CAR-T, with its own international medical centre and cell-therapy programme.": {
+  "fr": "L'hôpital le plus proche de la production du CAR-T chinois, avec son propre centre médical international et son programme de thérapie cellulaire.",
+  "es": "El hospital más cercano a la fabricación del CAR-T chino, con su propio centro médico internacional y programa de terapia celular.",
+  "ru": "Больница, ближайшая к производству китайского CAR-T, со своим международным медицинским центром и программой клеточной терапии.",
+  "ar": "المستشفى الأقرب إلى جانب التصنيع في CAR-T الصيني، وله مركزه الطبي الدولي وبرنامج العلاج الخلوي.",
+  "vi": "Bệnh viện gần nhất với khâu sản xuất CAR-T Trung Quốc, với trung tâm y tế quốc tế và chương trình trị liệu tế bào riêng."
+ },
+ "An international hospital whose cancer centre has become the most visible entry point for foreign patients seeking solid-tumour CAR-T.": {
+  "fr": "Un hôpital international dont le centre anticancéreux est devenu la porte d'entrée la plus visible pour les patients étrangers cherchant un CAR-T en tumeur solide.",
+  "es": "Un hospital internacional cuyo centro oncológico se ha convertido en la puerta de entrada más visible para pacientes extranjeros que buscan CAR-T para tumor sólido.",
+  "ru": "Международная больница, чей онкоцентр стал самой заметной точкой входа для иностранных пациентов, ищущих CAR-T при солидных опухолях.",
+  "ar": "مستشفى دولي أصبح مركزه للأورام النقطة الأبرز لدخول المرضى الأجانب الباحثين عن CAR-T للأورام الصلبة.",
+  "vi": "Bệnh viện quốc tế có trung tâm ung thư trở thành điểm đến rõ rệt nhất cho bệnh nhân nước ngoài tìm CAR-T khối u đặc."
+ },
+ "Published in Frontiers in Immunology: donor selection may need to move beyond HLA matching to the family's inherited genetic background.": {
+  "fr": "Publié dans Frontiers in Immunology : le choix du donneur pourrait devoir dépasser le seul typage HLA pour intégrer le terrain génétique héréditaire de la famille.",
+  "es": "Publicado en Frontiers in Immunology: la elección del donante quizá deba ir más allá del HLA e incorporar el trasfondo genético heredado de la familia.",
+  "ru": "Опубликовано в Frontiers in Immunology: выбор донора, возможно, должен выйти за рамки HLA-совместимости и учитывать наследственный генетический фон семьи.",
+  "ar": "نُشر في Frontiers in Immunology: قد يلزم أن يتجاوز اختيار المتبرع مطابقة HLA ليشمل الخلفية الوراثية للعائلة.",
+  "vi": "Đăng trên Frontiers in Immunology: lựa chọn người hiến có thể cần vượt ra ngoài phù hợp HLA để tính đến nền di truyền của gia đình."
+ },
+ "A 36-year-old from Quetta arrived after his lymphoma had been treated as a terminal illness, and left with a treatment plan that worked.": {
+  "fr": "Un homme de 36 ans originaire de Quetta est arrivé après que son lymphome avait été traité comme une maladie terminale — et il est reparti avec un protocole qui a fonctionné.",
+  "es": "Un hombre de 36 años de Quetta llegó después de que su linfoma se hubiera tratado como una enfermedad terminal, y se fue con un plan de tratamiento que funcionó.",
+  "ru": "36-летний пациент из Кветты приехал после того, как его лимфому сочли неизлечимой, и уехал с планом лечения, который сработал.",
+  "ar": "شاب يبلغ 36 عاماً من كويتا وصل بعد أن عُولجت لمفومته كمرض عضال، وغادر بخطة علاج نجحت.",
+  "vi": "Một người 36 tuổi từ Quetta đến khi lymphoma của anh từng bị coi là bệnh giai đoạn cuối, và ra về với một phác đồ đã hiệu quả."
+ },
+ "A national leader in cellular immunotherapy and stem-cell transplantation, with four decades in haematology, now leads the cancer centre.": {
+  "fr": "Figure nationale de l'immunothérapie cellulaire et de la greffe de cellules souches, avec quarante ans d'hématologie, il dirige désormais le centre anticancéreux.",
+  "es": "Referente nacional en inmunoterapia celular y trasplante de células madre, con cuatro décadas en hematología, ahora dirige el centro oncológico.",
+  "ru": "Национальный лидер в клеточной иммунотерапии и трансплантации стволовых клеток, с сорокалетним стажем в гематологии, теперь возглавляет онкоцентр.",
+  "ar": "رائد وطني في العلاج المناعي الخلوي وزرع الخلايا الجذعية، بخبرة أربعة عقود في أمراض الدم، يتولى الآن قيادة مركز الأورام.",
+  "vi": "Chuyên gia hàng đầu quốc gia về liệu pháp miễn dịch tế bào và ghép tế bào gốc, với bốn thập kỷ trong huyết học, nay lãnh đạo trung tâm ung thư."
+ },
+ "A lymphoma and cell-therapy centre that publishes de-identified case reviews, including what to do when standard CAR-T has already failed.": {
+  "fr": "Un centre de lymphomes et de thérapie cellulaire qui publie des cas cliniques anonymisés, y compris la conduite à tenir quand le CAR-T standard a déjà échoué.",
+  "es": "Un centro de linfomas y terapia celular que publica casos clínicos anonimizados, incluido qué hacer cuando el CAR-T estándar ya ha fallado.",
+  "ru": "Центр лимфом и клеточной терапии, публикующий обезличенные разборы случаев — в том числе что делать, когда стандартный CAR-T уже не сработал.",
+  "ar": "مركز لللمفومة والعلاج الخلوي ينشر مراجعات حالات مجهولة الهوية، بما في ذلك ما يُفعل عندما يفشل CAR-T القياسي.",
+  "vi": "Trung tâm lymphoma và trị liệu tế bào công bố các ca bệnh đã ẩn danh, kể cả hướng xử lý khi CAR-T tiêu chuẩn đã thất bại."
+ },
+ "A multicentre, placebo-controlled trial of a thrombopoietin receptor agonist, enrolling roughly 60 children with chronic ITP across China.": {
+  "fr": "Un essai multicentrique contrôlé contre placebo d'un agoniste du récepteur de la thrombopoïétine, incluant une soixantaine d'enfants atteints de PTI chronique en Chine.",
+  "es": "Un ensayo multicéntrico controlado con placebo de un agonista del receptor de trombopoyetina, con unos 60 niños con PTI crónica en toda China.",
+  "ru": "Многоцентровое плацебо-контролируемое исследование агониста рецептора тромбопоэтина, в которое войдут около 60 детей с хронической ИТП по всему Китаю.",
+  "ar": "تجربة متعددة المراكز ومضبوطة بالغفل لمحفّز مستقبلات الثرومبوبويتين، تشمل نحو 60 طفلاً مصاباً بنقص الصفيحات المناعي المزمن في الصين.",
+  "vi": "Thử nghiệm đa trung tâm, có đối chứng giả dược với chất chủ vận thụ thể thrombopoietin, tuyển khoảng 60 trẻ ITP mạn tính trên toàn Trung Quốc."
+ },
+ "Two oral presentations, sixteen posters and an e-poster — a snapshot of how deep the CAR-T and transplant caseload runs at a single centre.": {
+  "fr": "Deux présentations orales, seize posters et un e-poster : un aperçu de la profondeur du recrutement CAR-T et greffe dans un seul centre.",
+  "es": "Dos presentaciones orales, dieciséis pósteres y un e-póster: una muestra de la profundidad de la casuística de CAR-T y trasplante en un solo centro.",
+  "ru": "Два устных доклада, шестнадцать постеров и один е-постер — срез того, насколько глубоко в одном центре проработаны CAR-T и трансплантация.",
+  "ar": "عرضان شفهيان وستة عشر ملصقاً وملصق إلكتروني واحد — لمحة عن عمق خبرة CAR-T والزرع في مركز واحد.",
+  "vi": "Hai báo cáo miệng, mười sáu poster và một e-poster — hình ảnh cho thấy chiều sâu kinh nghiệm CAR-T và ghép tại một trung tâm."
+ },
+ "A haematology and transplant centre whose CAR-T work runs from paediatric T-ALL to refractory myeloma, presented each year at APBMT and IMS.": {
+  "fr": "Un centre d'hématologie et de greffe dont les travaux sur le CAR-T vont de la LAL-T pédiatrique au myélome réfractaire, présentés chaque année à l'APBMT et à l'IMS.",
+  "es": "Un centro de hematología y trasplante cuyos trabajos de CAR-T abarcan desde la LLA-T pediátrica hasta el mieloma refractario, presentados cada año en APBMT e IMS.",
+  "ru": "Центр гематологии и трансплантации, чьи работы по CAR-T охватывают от детского Т-ОЛЛ до рефрактерной миеломы и ежегодно представляются на APBMT и IMS.",
+  "ar": "مركز لأمراض الدم والزرع تمتد أعماله في CAR-T من ابيضاض الدم اللمفاوي التائي الحاد عند الأطفال إلى الورم النقوي المقاوم، وتُعرض سنوياً في APBMT وIMS.",
+  "vi": "Trung tâm huyết học và ghép với công trình CAR-T trải từ T-ALL nhi đến đa u tủy kháng trị, được trình bày hằng năm tại APBMT và IMS."
+ },
+ "In 53 WT1-mutated patients, relapse rather than graft failure drove transplant failure — an argument for tighter post-transplant monitoring.": {
+  "fr": "Chez 53 patients porteurs d'une mutation WT1, c'est la rechute, et non l'échec de la greffe, qui a causé l'échec — un argument pour un suivi post-greffe plus resserré.",
+  "es": "En 53 pacientes con mutación WT1, el fracaso lo provocó la recaída y no el fallo del injerto: un argumento a favor de una vigilancia posterior al trasplante más estrecha.",
+  "ru": "У 53 пациентов с мутацией WT1 причиной неудачи был рецидив, а не отторжение трансплантата — довод в пользу более плотного наблюдения после пересадки.",
+  "ar": "لدى 53 مريضاً يحملون طفرة WT1 كان الانتكاس لا فشل الطعم هو سبب فشل الزرع — وهو ما يدعم متابعة أكثر كثافة بعد الزرع.",
+  "vi": "Ở 53 bệnh nhân mang đột biến WT1, tái phát chứ không phải thải ghép là nguyên nhân thất bại — một lý lẽ cho việc theo dõi sát hơn sau ghép."
+ },
+ "A 68-year-old with stage IVB, IPI 5 CD5-positive DLBCL and double expression went from multi-line resistance to complete metabolic response.": {
+  "fr": "Une patiente de 68 ans atteinte d'un LDGCB de stade IVB, IPI 5, CD5-positif et à double expression, est passée d'une résistance multi-lignes à une réponse métabolique complète.",
+  "es": "Una paciente de 68 años con LDCGB estadio IVB, IPI 5, CD5-positivo y doble expresión pasó de resistencia a múltiples líneas a respuesta metabólica completa.",
+  "ru": "68-летняя пациентка с ДВККЛ IVB стадии, IPI 5, CD5-положительной и с двойной экспрессией, перешла от резистентности к нескольким линиям к полному метаболическому ответу.",
+  "ar": "مريضة تبلغ 68 عاماً مصابة بلمفومة بائية كبيرة منتشرة من المرحلة IVB وIPI 5 وإيجابية لـ CD5 مع تعبير مزدوج انتقلت من مقاومة لعلاجات متعددة إلى استجابة استقلابية كاملة.",
+  "vi": "Một bệnh nhân 68 tuổi DLBCL giai đoạn IVB, IPI 5, CD5 dương tính và biểu hiện kép, đã chuyển từ kháng trị nhiều dòng điều trị sang đáp ứng chuyển hóa hoàn toàn."
+ },
+ "Localised manufacturing, registration and commercialisation in the Kingdom — Chinese cell therapy exported as a product, not just a treatment.": {
+  "fr": "Fabrication, enregistrement et commercialisation localisés dans le Royaume : la thérapie cellulaire chinoise s'exporte comme un produit, pas seulement comme un soin.",
+  "es": "Fabricación, registro y comercialización localizados en el Reino: la terapia celular china se exporta como producto, no solo como tratamiento.",
+  "ru": "Локализованное производство, регистрация и коммерциализация в Королевстве: китайская клеточная терапия экспортируется как продукт, а не только как лечение.",
+  "ar": "تصنيع وتسجيل وتسويق محلي في المملكة — العلاج الخلوي الصيني يُصدَّر كمنتج لا كعلاج فحسب.",
+  "vi": "Sản xuất, đăng ký và thương mại hóa tại chỗ tại Vương quốc — trị liệu tế bào Trung Quốc được xuất khẩu như một sản phẩm, không chỉ là một liệu pháp."
+ },
+ "Primary CNS lymphoma, eleven years and counting — a case built on transplanting with residual disease and adding CAR-T when the disease came back.": {
+  "fr": "Lymphome primitif du SNC, onze ans et toujours là : un cas fondé sur une greffe malgré la maladie résiduelle, puis un CAR-T à la rechute.",
+  "es": "Linfoma primario del SNC, once años y contando: un caso basado en trasplantar con enfermedad residual y añadir CAR-T cuando la enfermedad volvió.",
+  "ru": "Первичная лимфома ЦНС — одиннадцать лет и счёт продолжается: случай, построенный на трансплантации при остаточной болезни и добавлении CAR-T при возврате заболевания.",
+  "ar": "لمفومة الجهاز العصبي المركزي الأولية، أحد عشر عاماً وما زالت مستمرة — حالة قامت على الزرع مع وجود مرض متبقٍ ثم إضافة CAR-T عند عودة المرض.",
+  "vi": "Lymphoma nguyên phát hệ thần kinh trung ương, mười một năm và vẫn tiếp diễn — ca bệnh dựa trên ghép khi còn bệnh tồn dư, rồi thêm CAR-T khi bệnh quay lại."
+ },
+ "China's first approved CAR-T has now treated more than 1,500 patients with relapsed lymphoma; the very first is still cancer-free after eight years.": {
+  "fr": "Le premier CAR-T approuvé en Chine a désormais traité plus de 1 500 patients atteints de lymphome en rechute ; le tout premier est toujours sans cancer après huit ans.",
+  "es": "El primer CAR-T aprobado en China ha tratado ya a más de 1.500 pacientes con linfoma en recaída; el primero de todos sigue libre de cáncer ocho años después.",
+  "ru": "Первый одобренный в Китае CAR-T пролечил более 1 500 пациентов с рецидивной лимфомой; самый первый пациент по-прежнему без признаков болезни спустя восемь лет.",
+  "ar": "أول CAR-T مُعتمد في الصين عالج حتى الآن أكثر من 1500 مريض باللمفومة المنتكسة، ولا يزال أول مريض خالياً من السرطان بعد ثماني سنوات.",
+  "vi": "CAR-T đầu tiên được phê duyệt tại Trung Quốc đã điều trị hơn 1.500 bệnh nhân lymphoma tái phát; bệnh nhân đầu tiên vẫn không còn ung thư sau tám năm."
+ },
+ "A BCMA/CD19 dual-target CAR-T has received implicit CDE approval for relapsed or refractory light-chain amyloidosis, where options are close to none.": {
+  "fr": "Un CAR-T double cible BCMA/CD19 a reçu l'accord implicite du CDE pour l'amylose à chaînes légères en rechute ou réfractaire, où les options sont quasi inexistantes.",
+  "es": "Un CAR-T de doble diana BCMA/CD19 ha recibido la aprobación implícita del CDE para la amiloidosis de cadenas ligeras en recaída o refractaria, donde las opciones son casi nulas.",
+  "ru": "Двухтаргетный CAR-T BCMA/CD19 получил негласное одобрение CDE при рецидивном или рефрактерном AL-амилоидозе, где вариантов почти нет.",
+  "ar": "CAR-T ثنائي الهدف BCMA/CD19 حصل على موافقة ضمنية من إدارة تقييم الأدوية في الصين للداء النشواني بالسلاسل الخفيفة المنتكس أو المقاوم، حيث لا تكاد توجد خيارات.",
+  "vi": "CAR-T hai đích BCMA/CD19 đã được CDE chấp thuận ngầm cho amyloidosis chuỗi nhẹ tái phát hoặc kháng trị — nhóm gần như không còn lựa chọn."
+ },
+ "A 14-year-old with relapsed ETP-ALL had already been through CAR-T in Australia; Beijing offered a haploidentical transplant on the Beijing Protocol.": {
+  "fr": "Un adolescent de 14 ans atteint d'une ETP-ALL en rechute avait déjà reçu un CAR-T en Australie ; Pékin lui a proposé une greffe haplo-identique selon le protocole de Pékin.",
+  "es": "Un adolescente de 14 años con ETP-ALL en recaída ya había pasado por CAR-T en Australia; Pekín le ofreció un trasplante haploidéntico con el Protocolo de Pekín.",
+  "ru": "14-летний подросток с рецидивной ETP-ALL уже прошёл CAR-T в Австралии; Пекин предложил гаплоидентичную трансплантацию по Пекинскому протоколу.",
+  "ar": "مراهق يبلغ 14 عاماً مصاب بـ ETP-ALL منتكس كان قد خضع لـ CAR-T في أستراليا، فعرضت عليه بكين زرعاً نصف متوافق وفق «بروتوكول بكين».",
+  "vi": "Một thiếu niên 14 tuổi ETP-ALL tái phát đã từng CAR-T tại Australia; Bắc Kinh đề nghị ghép bán phù hợp theo Phác đồ Bắc Kinh."
+ },
+ "A Phase III trial of Equecabtagene autoleucel for relapsed or refractory myeloma that has stopped responding to lenalidomide (registered CTR20241656).": {
+  "fr": "Un essai de phase III sur l'equecabtagène autoleucel dans le myélome en rechute ou réfractaire devenu résistant au lénalidomide (enregistré CTR20241656).",
+  "es": "Un ensayo de fase III de equecabtagén autoleucel en mieloma en recaída o refractario que dejó de responder a lenalidomida (registrado CTR20241656).",
+  "ru": "Исследование III фазы экскабтагена аутолейцела при рецидивной или рефрактерной миеломе, переставшей отвечать на леналидомид (регистрация CTR20241656).",
+  "ar": "تجربة من المرحلة الثالثة لعقار Equecabtagene autoleucel في الورم النقوي المنتكس أو المقاوم الذي توقف عن الاستجابة لليناليدوميد (المعرّف CTR20241656).",
+  "vi": "Thử nghiệm pha III với equecabtagene autoleucel cho đa u tủy tái phát hoặc kháng trị đã hết đáp ứng lenalidomide (mã CTR20241656)."
+ },
+ "The first T-cell collection in the Greater Bay Area for CT041 (satri-cel), for a gastric cancer patient previously treated in Mongolia and South Korea.": {
+  "fr": "La première collecte de cellules T dans la Grande Baie pour le CT041 (satri-cel), chez un patient atteint d'un cancer gastrique déjà traité en Mongolie et en Corée du Sud.",
+  "es": "La primera recolección de células T en la Gran Bahía para CT041 (satri-cel), en un paciente con cáncer gástrico tratado antes en Mongolia y Corea del Sur.",
+  "ru": "Первый забор Т-клеток в районе Большого залива для CT041 (сатри-цел) — у пациента с раком желудка, ранее лечившегося в Монголии и Южной Корее.",
+  "ar": "أول جمع لخلايا T في منطقة الخليج الكبير لعلاج CT041 (ساتري-سيل)، لمريض سرطان معدة سبق علاجه في منغوليا وكوريا الجنوبية.",
+  "vi": "Lần tách tế bào T đầu tiên tại vùng Vịnh lớn cho CT041 (satri-cel), ở bệnh nhân ung thư dạ dày từng điều trị tại Mông Cổ và Hàn Quốc."
+ },
+ "Five-year follow-up, a landmark second-line result and Chinese real-world evidence: axicabtagene ciloleucel is edging large B-cell lymphoma toward cure.": {
+  "fr": "Cinq ans de suivi, un résultat de référence en deuxième ligne et des données chinoises en vie réelle : l'axicabtagène ciloleucel rapproche le lymphome B à grandes cellules de la guérison.",
+  "es": "Cinco años de seguimiento, un resultado de referencia en segunda línea y evidencia china del mundo real: el axicabtagén ciloleucel acerca el linfoma B de células grandes a la curación.",
+  "ru": "Пятилетнее наблюдение, этапный результат во второй линии и китайские данные реальной практики: аксикабтаген цилолейуцел приближает крупноклеточную В-лимфому к излечению.",
+  "ar": "متابعة لخمس سنوات ونتيجة مرجعية في الخط الثاني وبيانات صينية من الواقع: أكسيكابتاجين سيلولوسيل يقترب باللمفومة البائية الكبيرة من الشفاء.",
+  "vi": "Năm năm theo dõi, một kết quả mốc ở đường điều trị thứ hai và bằng chứng thực tế từ Trung Quốc: axicabtagene ciloleucel đang đưa lymphoma tế bào B lớn tiến gần khỏi bệnh."
+ },
+ "Tell us the diagnosis, the treatments already tried and the reports you have. We will match you to the hospitals actually running the relevant programme.": {
+  "fr": "Indiquez-nous le diagnostic, les traitements déjà essayés et les comptes rendus dont vous disposez. Nous vous orienterons vers les hôpitaux qui conduisent réellement le programme concerné.",
+  "es": "Cuéntenos el diagnóstico, los tratamientos ya probados y los informes que tiene. Le orientaremos hacia los hospitales que realmente desarrollan el programa correspondiente.",
+  "ru": "Расскажите диагноз, какие методы лечения уже испробованы и какие заключения у вас есть. Мы подберём больницы, где действительно ведут нужную программу.",
+  "ar": "أخبرنا بالتشخيص والعلاجات التي جُرّبت والتقارير التي لديك. سنوجهك إلى المستشفيات التي تُشغّل البرنامج المعني فعلياً.",
+  "vi": "Cho chúng tôi biết chẩn đoán, các phương pháp đã thử và hồ sơ bạn đang có. Chúng tôi sẽ ghép bạn với bệnh viện thực sự triển khai chương trình phù hợp."
+ },
+ "A single coordinated route into CAR-T for foreign patients — eligibility review, apheresis, infusion and follow-up, with visa and insurance timing built in.": {
+  "fr": "Un parcours coordonné unique vers le CAR-T pour les patients étrangers : évaluation d'éligibilité, aphérèse, perfusion et suivi, avec la logistique visa et assurance intégrée.",
+  "es": "Una única vía coordinada hacia el CAR-T para pacientes extranjeros: revisión de elegibilidad, aféresis, infusión y seguimiento, con los tiempos de visado y seguro incorporados.",
+  "ru": "Единый согласованный маршрут к CAR-T для иностранных пациентов: оценка показаний, аферез, инфузия и наблюдение — с учётом сроков визы и страховки.",
+  "ar": "مسار واحد منسّق نحو CAR-T للمرضى الأجانب — تقييم الأهلية وفصل الخلايا والتسريب والمتابعة، مع مراعاة توقيت التأشيرة والتأمين.",
+  "vi": "Một lộ trình phối hợp duy nhất vào CAR-T cho bệnh nhân nước ngoài — đánh giá điều kiện, tách tế bào, truyền và theo dõi, tính cả thời gian visa và bảo hiểm."
+ },
+ "After a failed first CAR-T attempt and a haploidentical transplant, a 29-year-old with B-ALL has been in remission for nine years — and now treats strangers for free.": {
+  "fr": "Après un premier CAR-T en échec et une greffe haplo-identique, un homme de 29 ans atteint de LAL-B est en rémission depuis neuf ans — et soigne désormais des inconnus gratuitement.",
+  "es": "Tras un primer CAR-T fallido y un trasplante haploidéntico, un joven de 29 años con LLA-B lleva nueve años en remisión y ahora trata gratis a desconocidos.",
+  "ru": "После неудачного первого CAR-T и гаплоидентичной трансплантации 29-летний пациент с В-ОЛЛ находится в ремиссии девять лет — и теперь бесплатно лечит незнакомых людей.",
+  "ar": "بعد محاولة CAR-T أولى فاشلة وزرع نصف متوافق، شاب يبلغ 29 عاماً مصاب بـ B-ALL في هدوء منذ تسع سنوات، وهو الآن يعالج غرباء مجاناً.",
+  "vi": "Sau lần CAR-T đầu thất bại và một ca ghép bán phù hợp, một người 29 tuổi B-ALL đã thuyên giảm chín năm — và giờ chữa miễn phí cho người lạ."
+ },
+ "The hospitals we work with publish their own CAR-T case reports, trial notices and research updates. Here are four of the latest, in their own words — 31 articles in all, from 8 centres.": {
+  "fr": "Les hôpitaux avec lesquels nous travaillons publient leurs propres cas de CAR-T, avis d'essais et actualités de recherche. Voici quatre des plus récents, dans leurs mots — 31 articles au total, issus de 8 centres.",
+  "es": "Los hospitales con los que trabajamos publican sus propios casos de CAR-T, avisos de ensayos y novedades de investigación. Aquí van cuatro de los más recientes, en sus propias palabras: 31 artículos en total, de 8 centros.",
+  "ru": "Больницы, с которыми мы работаем, сами публикуют разборы случаев CAR-T, объявления об исследованиях и научные новости. Вот четыре свежих материала их словами — всего 31 статья из 8 центров.",
+  "ar": "المستشفيات التي نعمل معها تنشر بنفسها تقارير حالات CAR-T وإعلانات التجارب ومستجدات البحث. وهذه أربعة من أحدثها بكلماتهم — 31 مقالاً في المجموع من 8 مراكز.",
+  "vi": "Các bệnh viện chúng tôi hợp tác tự công bố ca bệnh CAR-T, thông báo thử nghiệm và cập nhật nghiên cứu. Đây là bốn bài mới nhất, bằng chính lời của họ — tổng cộng 31 bài từ 8 trung tâm."
+ },
+ "CAR-T, lymphoma and transplant coverage published by MedTourChina partner hospitals across China — paediatric CD7 CAR-T, solid-tumour CT041, refractory DLBCL rescue and long-term survivor stories, each linked to the original article.": {
+  "fr": "La couverture CAR-T, lymphome et greffe publiée par les hôpitaux partenaires de MedTourChina à travers la Chine : CAR-T CD7 pédiatrique, CT041 en tumeur solide, sauvetage du LDGCB réfractaire et récits de survivants au long cours, chaque fois liés à l'article d'origine.",
+  "es": "La cobertura de CAR-T, linfoma y trasplante publicada por los hospitales asociados de MedTourChina en toda China: CAR-T CD7 pediátrico, CT041 en tumor sólido, rescate del LDCGB refractario e historias de supervivientes a largo plazo, cada una enlazada al artículo original.",
+  "ru": "Материалы о CAR-T, лимфомах и трансплантации от больниц-партнёров MedTourChina по всему Китаю: детский CAR-T к CD7, CT041 при солидных опухолях, спасение при рефрактерной ДВККЛ и истории длительной выживаемости — каждая со ссылкой на оригинал.",
+  "ar": "تغطية CAR-T واللمفومة والزرع التي تنشرها مستشفيات MedTourChina الشريكة في أنحاء الصين — CAR-T لـ CD7 عند الأطفال، وCT041 للأورام الصلبة، وإنقاذ اللمفومة البائية الكبيرة المنتشرة المقاومة، وقصص ناجين على المدى الطويل، وكلها مرتبطة بالمقال الأصلي.",
+  "vi": "Nội dung về CAR-T, lymphoma và ghép do các bệnh viện đối tác MedTourChina trên khắp Trung Quốc công bố — CAR-T CD7 nhi, CT041 khối u đặc, cứu chữa DLBCL kháng trị và câu chuyện sống lâu dài, mỗi bài đều liên kết tới bản gốc."
+ },
+ "Each card below links to an article published by that hospital on its own website. We translate the headline and summary into your language and send you to the original for the full text, the imaging and the clinician's own account. Nothing here is rewritten or republished, and no article on this page is a substitute for medical advice about your own case.": {
+  "fr": "Chaque fiche ci-dessous renvoie à un article publié par cet hôpital sur son propre site. Nous traduisons le titre et le résumé dans votre langue et vous envoyons à l'original pour le texte intégral, l'imagerie et le récit du clinicien. Rien ici n'est réécrit ni republié, et aucun article de cette page ne remplace un avis médical sur votre propre situation.",
+  "es": "Cada ficha enlaza a un artículo publicado por ese hospital en su propio sitio. Traducimos el titular y el resumen a su idioma y le enviamos al original para el texto completo, las imágenes y el relato del clínico. Nada aquí se reescribe ni se republica, y ningún artículo de esta página sustituye el consejo médico sobre su caso.",
+  "ru": "Каждая карточка ведёт на статью, опубликованную этой больницей на своём сайте. Мы переводим заголовок и краткое содержание на ваш язык и отправляем к оригиналу за полным текстом, снимками и рассказом врача. Здесь ничего не переписано и не переопубликовано, и ни одна статья на этой странице не заменяет консультацию врача по вашему случаю.",
+  "ar": "كل بطاقة أدناه تنقلك إلى مقال نشرته تلك المستشفى على موقعها. نترجم العنوان والملخص إلى لغتك ونرسلك إلى الأصل للنص الكامل والصور ورواية الطبيب. لا شيء هنا معاد كتابته أو إعادة نشره، ولا يغني أي مقال في هذه الصفحة عن استشارة طبية تخص حالتك.",
+  "vi": "Mỗi thẻ dưới đây dẫn tới một bài do chính bệnh viện đó công bố trên trang của họ. Chúng tôi dịch tiêu đề và tóm tắt sang ngôn ngữ của bạn rồi đưa bạn tới bản gốc để đọc toàn văn, xem hình ảnh và lời kể của bác sĩ. Không nội dung nào ở đây được viết lại hay đăng lại, và không bài nào trên trang này thay thế được tư vấn y khoa cho chính ca bệnh của bạn."
  }
 }

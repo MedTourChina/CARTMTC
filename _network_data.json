@@ -1,0 +1,294 @@
+{
+ "_note": "Curated CAR-T / haematology articles published by MedTourChina partner hospitals on their own subdomains. Per project convention these are CITED and LINKED from the cart hub, never copied. 'title' and 'summary' are the ENGLISH source values; translations live in i18n_translations.json keyed by these exact strings.",
+ "groups": [
+  {
+   "id": "gobroad",
+   "site": "GOBROAD Medical Group",
+   "hospital": "Beijing GOBROAD Boren Hospital",
+   "city": "Beijing",
+   "blurb": "A haematology and transplant centre whose CAR-T work runs from paediatric T-ALL to refractory myeloma, presented each year at APBMT and IMS.",
+   "items": [
+    {
+     "tag": "Research",
+     "date": "2026-10-10",
+     "title": "CD7 CAR-T Bridged to Allo-HSCT Achieves 84.8% Two-Year Relapse-Free Survival in Children with R/R T-ALL/LBL",
+     "summary": "Twenty-three children with relapsed or refractory T-ALL went from CD7 CAR-T straight into allogeneic transplant; 84.8% were relapse-free at two years.",
+     "url": "https://gobroad.medtourchina.net/resources/news/apbmt-2026-cd7-car-t-bridged-hsct-pediatric-t-all-2026.html"
+    },
+    {
+     "tag": "Patient story",
+     "date": "2026-08-02",
+     "title": "48-Month Peritoneal Control with CLDN18.2 CAR-T in Advanced Gastric Cancer: From Unresectable to Conversion Surgery",
+     "summary": "A 53-year-old with gastric cancer and peritoneal spread saw his PCI score fall from 9 to 0 within eight months, then reached surgery — still controlled at 48 months.",
+     "url": "https://gobroad.medtourchina.net/resources/news/cldn18.2-car-t-gastric-cancer-peritoneal-metastasis-48-month-survival-2026.html"
+    },
+    {
+     "tag": "Patient story",
+     "date": "2026-08-04",
+     "title": "11-Year PCNSL Survivor: Autologous Transplant with Residual Disease Plus CAR-T",
+     "summary": "Primary CNS lymphoma, eleven years and counting — a case built on transplanting with residual disease and adding CAR-T when the disease came back.",
+     "url": "https://gobroad.medtourchina.net/resources/news/pcnsl-11year-survivor-autologous-transplant-car-t-2026.html"
+    },
+    {
+     "tag": "Patient story",
+     "date": "2026-07-24",
+     "title": "Nearly 9 Years in Complete Remission After CAR-T for B-ALL",
+     "summary": "After a failed first CAR-T attempt and a haploidentical transplant, a 29-year-old with B-ALL has been in remission for nine years — and now treats strangers for free.",
+     "url": "https://gobroad.medtourchina.net/resources/news/b-all-car-t-remission-9-years-volunteer-massage-2026.html"
+    },
+    {
+     "tag": "Research",
+     "date": "2026-09-29",
+     "title": "IMS 2026: Precision Treatment of Extramedullary Myeloma, from Static Targets to Dynamic Imaging",
+     "summary": "Four myeloma studies accepted at IMS 2026, focused on the hardest groups — extramedullary disease and secondary plasma cell leukaemia.",
+     "url": "https://gobroad.medtourchina.net/resources/news/ims-2026-zhang-yajing-pa-438-multitarget-car-t-2026.html"
+    },
+    {
+     "tag": "Trial",
+     "date": "2026-07-24",
+     "title": "Multiple Myeloma CAR-T Trial Recruiting Patients Resistant to Lenalidomide",
+     "summary": "A Phase III trial of Equecabtagene autoleucel for relapsed or refractory myeloma that has stopped responding to lenalidomide (registered CTR20241656).",
+     "url": "https://gobroad.medtourchina.net/resources/news/mm-car-t-lenalidomide-resistant-trial-2026.html"
+    },
+    {
+     "tag": "Research",
+     "date": "2026-09-29",
+     "title": "19 Studies from One Hospital at APBMT 2026",
+     "summary": "Two oral presentations, sixteen posters and an e-poster — a snapshot of how deep the CAR-T and transplant caseload runs at a single centre.",
+     "url": "https://gobroad.medtourchina.net/resources/news/apbmt-2026-beijing-gobroad-boren-19-studies-2026.html"
+    },
+    {
+     "tag": "Research",
+     "date": "2026-10-10",
+     "title": "Relapse Is the Leading Cause of Treatment Failure After Allo-HSCT in WT1-Mutated Blood Cancers",
+     "summary": "In 53 WT1-mutated patients, relapse rather than graft failure drove transplant failure — an argument for tighter post-transplant monitoring.",
+     "url": "https://gobroad.medtourchina.net/resources/news/apbmt-2026-wt1-relapse-allo-hsct-li-zhihui-2026.html"
+    },
+    {
+     "tag": "Research",
+     "date": "2026-09-28",
+     "title": "Germline Predisposition Genes Guide HSCT Outcomes and Donor Selection",
+     "summary": "Published in Frontiers in Immunology: donor selection may need to move beyond HLA matching to the family's inherited genetic background.",
+     "url": "https://gobroad.medtourchina.net/resources/news/germline-predisposition-genes-transplant-outcomes-donor-selection-2026.html"
+    }
+   ]
+  },
+  {
+   "id": "arion",
+   "site": "Beijing Arion Cancer Hospital",
+   "hospital": "Beijing Arion Cancer Hospital",
+   "city": "Beijing",
+   "blurb": "A lymphoma and cell-therapy centre that publishes de-identified case reviews, including what to do when standard CAR-T has already failed.",
+   "items": [
+    {
+     "tag": "CAR-T",
+     "date": "2026-10-02",
+     "title": "MDT-Guided LM101 CD19 CAR-T in High-Risk CD5-Positive DLBCL",
+     "summary": "A 68-year-old with stage IVB, IPI 5 CD5-positive DLBCL and double expression went from multi-line resistance to complete metabolic response.",
+     "url": "https://arion.medtourchina.net/resources/news/cd5-positive-dlbcl-lm101-car-t-mdt.html"
+    },
+    {
+     "tag": "CAR-T",
+     "date": "2026-07-09",
+     "title": "When Two CAR-T Therapies Fail: Sequential Bispecific Antibody Achieves Disease Control",
+     "summary": "After a CD20 CAR-T and then a CD19/PD1/CD28 CAR-T both failed, a stepwise bispecific sequence brought refractory DLBCL back under control.",
+     "url": "https://arion.medtourchina.net/resources/news/refractory-dlbcl-car-t-bispecific-antibody-mdt.html"
+    },
+    {
+     "tag": "Research",
+     "date": "2026-08-28",
+     "title": "LM101 CD19 CAR-T Receives IND Approval in China",
+     "summary": "A plain-language science note on what an IND clearance does and does not mean for a new CD19 CAR-T in relapsed B-cell lymphoma.",
+     "url": "https://arion.medtourchina.net/resources/news/lm101-car-t-ind-approval-relapsed-b-cell-lymphoma.html"
+    },
+    {
+     "tag": "Patient story",
+     "date": "2026-07-09",
+     "title": "Seemingly Dangerous, Yet Highly Curable: A Guide to Primary Mediastinal Large B-Cell Lymphoma",
+     "summary": "PMBCL grows fast and looks alarming on imaging, but with the right sequence it is one of the more curable large B-cell lymphomas.",
+     "url": "https://arion.medtourchina.net/resources/news/primary-mediastinal-large-b-cell-lymphoma-pmbcl-guide.html"
+    }
+   ]
+  },
+  {
+   "id": "chanyi",
+   "site": "Foshan Chancheng Hospital",
+   "hospital": "Foshan Chancheng Hospital (Fosun Health)",
+   "city": "Foshan, Greater Bay Area",
+   "blurb": "The hospital closest to the manufacturing side of Chinese CAR-T, with its own international medical centre and cell-therapy programme.",
+   "items": [
+    {
+     "tag": "CAR-T",
+     "date": "2026-09-17",
+     "title": "Long-Term CAR-T Data from China Rewrite Lymphoma Treatment Standards",
+     "summary": "Five-year follow-up, a landmark second-line result and Chinese real-world evidence: axicabtagene ciloleucel is edging large B-cell lymphoma toward cure.",
+     "url": "https://chanyi.medtourchina.net/news/axi-cel-long-term-data-rewrite-lbcl-standards.html"
+    },
+    {
+     "tag": "CAR-T",
+     "date": "2026-09-17",
+     "title": "Yikaida Marks Five Years: The Milestone Road of CAR-T Therapy in China",
+     "summary": "China's first approved CAR-T has now treated more than 1,500 patients with relapsed lymphoma; the very first is still cancer-free after eight years.",
+     "url": "https://chanyi.medtourchina.net/news/yikaida-axi-cel-five-years-china-car-t-milestone.html"
+    },
+    {
+     "tag": "CAR-T",
+     "date": "2026-09-15",
+     "title": "World's First Solid-Tumour CAR-T Reaches the Clinic: Greater Bay Area's First T-Cell Collection",
+     "summary": "The first T-cell collection in the Greater Bay Area for CT041 (satri-cel), for a gastric cancer patient previously treated in Mongolia and South Korea.",
+     "url": "https://chanyi.medtourchina.net/news/solid-tumor-car-t-ct041-bay-area-first-t-cell-collection.html"
+    },
+    {
+     "tag": "Research",
+     "date": "2026-09-15",
+     "title": "Dual-Target CAR-T FKC289 Cleared for Trials in Rare AL Amyloidosis",
+     "summary": "A BCMA/CD19 dual-target CAR-T has received implicit CDE approval for relapsed or refractory light-chain amyloidosis, where options are close to none.",
+     "url": "https://chanyi.medtourchina.net/news/fosun-kairos-fkc289-dual-target-car-t-amyloidosis.html"
+    },
+    {
+     "tag": "Research",
+     "date": "2026-09-15",
+     "title": "China's CAR-T Goes Global: MOU with Saudi Arabia's Fakeeh Care Group",
+     "summary": "Localised manufacturing, registration and commercialisation in the Kingdom — Chinese cell therapy exported as a product, not just a treatment.",
+     "url": "https://chanyi.medtourchina.net/news/fosun-kairos-fakeeh-care-car-t-saudi-partnership.html"
+    }
+   ]
+  },
+  {
+   "id": "jiahui",
+   "site": "Jiahui International Hospital",
+   "hospital": "Jiahui International Hospital",
+   "city": "Shanghai",
+   "blurb": "An international hospital whose cancer centre has become the most visible entry point for foreign patients seeking solid-tumour CAR-T.",
+   "items": [
+    {
+     "tag": "CAR-T",
+     "date": "2026-07-09",
+     "title": "World's First Solid Tumour CAR-T: First Foreign Patient Apheresis Completed",
+     "summary": "On 6 July 2026 a 59-year-old from New Zealand became the first foreign patient to complete T-cell collection for CT041 in China.",
+     "url": "https://jiahui.medtourchina.net/news/first-foreign-patient-ct041-apheresis-jiahui.html"
+    },
+    {
+     "tag": "Patient story",
+     "date": "2026-08-19",
+     "title": "First Foreign Patient Completes Solid Tumour CAR-T and Is Discharged",
+     "summary": "Josh went home on 16 August after more than a month of treatment — the first international patient to finish CT041 therapy at Jiahui.",
+     "url": "https://jiahui.medtourchina.net/news/newzealand-josh-solid-tumor-car-t-discharge-jiahui.html"
+    },
+    {
+     "tag": "Patient story",
+     "date": "2026-05-21",
+     "title": "From Palliative Care to a Second Chance: A Pakistani Lymphoma Patient's CAR-T Journey",
+     "summary": "A 36-year-old from Quetta arrived after his lymphoma had been treated as a terminal illness, and left with a treatment plan that worked.",
+     "url": "https://jiahui.medtourchina.net/news/pakistani-patient-car-t-story.html"
+    },
+    {
+     "tag": "CAR-T",
+     "date": "2026-06-18",
+     "title": "CLDN18.2 Targeted Therapy and Solid-Tumour CAR-T in Gastric Cancer",
+     "summary": "How one target came to dominate gastric cancer: an antibody with a price cut, and a CAR-T built on the same biology.",
+     "url": "https://jiahui.medtourchina.net/news/cldn18.2-gastric-cancer-treatment.html"
+    },
+    {
+     "tag": "CAR-T",
+     "date": "2026-09-03",
+     "title": "China's CAR-T Pioneer Dr. Hao Siguo Joins as Director of Haematology",
+     "summary": "A national leader in cellular immunotherapy and stem-cell transplantation, with four decades in haematology, now leads the cancer centre.",
+     "url": "https://jiahui.medtourchina.net/news/dr-hao-siguo-hematology-jiahui.html"
+    }
+   ]
+  },
+  {
+   "id": "sinounited",
+   "site": "Shanghai SinoUnited Hospital",
+   "hospital": "Shanghai SinoUnited Hospital",
+   "city": "Shanghai",
+   "blurb": "One of the earliest Shanghai hospitals to build a CAR-T pathway designed end to end for patients coming from abroad.",
+   "items": [
+    {
+     "tag": "CAR-T",
+     "date": "2025-05-15",
+     "title": "SinoUnited Opens a CAR-T International Consultation Centre",
+     "summary": "A single coordinated route into CAR-T for foreign patients — eligibility review, apheresis, infusion and follow-up, with visa and insurance timing built in.",
+     "url": "https://sinounited.medtourchina.net/news/car-t-international-center.html"
+    },
+    {
+     "tag": "Patient story",
+     "date": "2024-10-18",
+     "title": "SinoUnited Completes Its First International CAR-T Patients",
+     "summary": "A myeloma patient from the UK and a high-risk lymphoma patient were treated and discharged, with follow-up confirming the response.",
+     "url": "https://sinounited.medtourchina.net/news/first-international-car-t-patients.html"
+    }
+   ]
+  },
+  {
+   "id": "concord",
+   "site": "Guangzhou Concord Cancer Center",
+   "hospital": "Guangzhou Concord Cancer Center",
+   "city": "Guangzhou",
+   "blurb": "A cancer centre in southern China that handles the logistics of a long-distance treatment journey as carefully as the medicine.",
+   "items": [
+    {
+     "tag": "Patient story",
+     "date": "2026-04-17",
+     "title": "\"Absolutely Excellent\" — A Bangladeshi Lymphoma Patient's Journey at GCCC",
+     "summary": "From a first consultation to a 4:30 am airport send-off, the full arc of one patient's lymphoma treatment in Guangzhou.",
+     "url": "https://concord.medtourchina.net/news/gccc-bangladesh-lymphoma-patient-journey-2026.html"
+    }
+   ]
+  },
+  {
+   "id": "jingdu",
+   "site": "Beijing Jingdu Children's Hospital",
+   "hospital": "Beijing Jingdu Children's Hospital",
+   "city": "Beijing",
+   "blurb": "A paediatric haematology centre where the Beijing Protocol for haploidentical transplant is standard care, not a last resort.",
+   "items": [
+    {
+     "tag": "Transplant",
+     "date": "2026-05-09",
+     "title": "Across Oceans for Life: An Australian Family's Transplant Journey",
+     "summary": "A 14-year-old with relapsed ETP-ALL had already been through CAR-T in Australia; Beijing offered a haploidentical transplant on the Beijing Protocol.",
+     "url": "https://jingdu.medtourchina.net/resources/news/australia-leukemia-transplant-2026.html"
+    },
+    {
+     "tag": "Patient story",
+     "date": "2026-06-26",
+     "title": "Nine Years of Battle: A \"Little Drum King\" Beats Wiskott-Aldrich Syndrome",
+     "summary": "From eight days old, transfusions kept him alive. Nine years later a transplant gave him a childhood outside the ward.",
+     "url": "https://jingdu.medtourchina.net/resources/news/was-drum-kid-nine-year-transplant-2026.html"
+    },
+    {
+     "tag": "Research",
+     "date": "2026-06-18",
+     "title": "Two Research Achievements Presented at the 2026 EHA Annual Meeting",
+     "summary": "Two paediatric haematology studies from the hospital's transplant team presented as posters in Stockholm.",
+     "url": "https://jingdu.medtourchina.net/resources/news/eha-2026.html"
+    },
+    {
+     "tag": "Trial",
+     "date": "2026-06-12",
+     "title": "Phase III Trial Open for Children with Immune Thrombocytopenia",
+     "summary": "A multicentre, placebo-controlled trial of a thrombopoietin receptor agonist, enrolling roughly 60 children with chronic ITP across China.",
+     "url": "https://jingdu.medtourchina.net/resources/news/itp-clinical-trial-2026.html"
+    }
+   ]
+  },
+  {
+   "id": "hygeia",
+   "site": "Chongqing HYGEIA Hospital",
+   "hospital": "Chongqing HYGEIA Hospital",
+   "city": "Chongqing",
+   "blurb": "A large private oncology group whose lymphoma follow-up archive goes back more than a decade.",
+   "items": [
+    {
+     "tag": "Patient story",
+     "date": "2026-09-22",
+     "title": "Given Four Months to Live: Thirteen Years On, a Lymphoma Patient Walks Out of the Tunnel",
+     "summary": "Stage IV primary pulmonary lymphoma, diagnosed in 2012 with a four-month prognosis. She is still in follow-up fourteen years later.",
+     "url": "https://hygeia.medtourchina.net/news/pulmonary-lymphoma-thirteen-year-survival-2026.html"
+    }
+   ]
+  }
+ ]
+}
