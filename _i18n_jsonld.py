@@ -33,8 +33,22 @@ def walk(node, lang, hits):
 
 total = 0
 changed_files = 0
-for lang in LANGS:
-    for path in glob.glob(lang + "/**/*.html", recursive=True):
+
+# Default target: every built locale directory. Optional argv lets drafts or
+# preview folders be localised too, e.g.
+#   python _i18n_jsonld.py "_preview/*/{fr,es,ru,ar,vi}.html"
+targets = []
+if len(sys.argv) > 1:
+    for lang in LANGS:
+        for pat in sys.argv[1:]:
+            for path in glob.glob(pat.replace("{fr,es,ru,ar,vi}", lang), recursive=True):
+                targets.append((lang, path))
+else:
+    for lang in LANGS:
+        for path in glob.glob(lang + "/**/*.html", recursive=True):
+            targets.append((lang, path))
+
+for lang, path in targets:
         src = open(path, encoding="utf-8").read()
         new = src
         page_hits = 0

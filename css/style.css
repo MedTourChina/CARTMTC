@@ -811,12 +811,55 @@ h4 { font-size: 1.125rem; }
   min-width: 180px;
 }
 
+/* Numbered block used on content pages (lists are globally un-styled). */
+.check-list {
+  list-style: none;
+  counter-reset: chk;
+  margin: 0 0 8px;
+  padding: 0;
+}
+.check-list li {
+  position: relative;
+  padding-left: 46px;
+  margin-bottom: 22px;
+  color: var(--text-light);
+  line-height: 1.7;
+}
+.check-list li::before {
+  counter-increment: chk;
+  content: counter(chk);
+  position: absolute;
+  left: 0;
+  top: 1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: center;
+}
+[dir="rtl"] .check-list li { padding-left: 0; padding-right: 46px; }
+[dir="rtl"] .check-list li::before { left: auto; right: 0; }
+
 /* --- Tables (drug list / indications) --- */
 .table-wrap {
   overflow-x: auto;
   border-radius: var(--radius);
   border: 1px solid var(--border-light);
   background: var(--bg-card);
+}
+.table-wrap caption {
+  caption-side: top;
+  text-align: left;
+  padding: 14px 18px;
+  font-size: 0.84rem;
+  line-height: 1.5;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border-light);
+  background: var(--bg-alt);
 }
 .data-table {
   width: 100%;
@@ -843,6 +886,10 @@ h4 { font-size: 1.125rem; }
 .data-table .t-name { font-weight: 700; color: var(--primary-dark); }
 .data-table .t-target { color: var(--accent-dark); font-weight: 600; }
 .data-table .t-price { font-weight: 700; color: var(--accent); white-space: nowrap; }
+/* Two-column label/value tables must fit a phone without horizontal scroll. */
+.data-table.compact { min-width: 0; }
+.data-table.compact thead th { white-space: normal; }
+.data-table.compact tbody td:first-child { width: 55%; }
 
 /* Stats strip on a light background (comparison / drug pages).
    Base .stats-row is defined for the dark hero, so override colours here. */
@@ -1280,3 +1327,89 @@ h4 { font-size: 1.125rem; }
    the leading space after </strong>). */
 .note-box .note-lead { margin: 0 0 8px; }
 .note-box p:last-child { margin-bottom: 0; }
+
+/* --- Grid column blowout guard -------------------------------------------
+   .data-table carries min-width:720px so it stays readable. Inside the
+   article grid the auto minimum of a `1fr` column resolves to the table's
+   min-content width, which pushed the whole page 250px wider than the
+   viewport on phones. minmax(0,1fr) + min-width:0 on the column item lets
+   the column shrink and .table-wrap scroll horizontally instead. */
+.article-layout { grid-template-columns: minmax(0, 1fr) 320px; }
+.article-main { min-width: 0; }
+@media (max-width: 1024px) {
+  .article-layout { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* --- Interview Q&A block -------------------------------------------------
+   Used by expert-interview articles: a tinted panel holding the question in
+   bold primary colour and the answer underneath. Mirrored for RTL so the
+   accent rule sits on the reading-start edge. ------------------------------ */
+.qa {
+  margin: 24px 0 26px;
+  padding: 18px 22px;
+  background: var(--bg-alt);
+  border-left: 3px solid var(--primary);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+.qa .qa-q { font-weight: 700; color: var(--primary-dark); margin-bottom: 10px; line-height: 1.6; }
+.qa .qa-a { margin-bottom: 0; }
+[dir="rtl"] .qa {
+  border-left: 0;
+  border-right: 3px solid var(--primary);
+  border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+}
+@media (max-width: 640px) {
+  .qa { padding: 14px 16px; }
+}
+
+/* --- Nav fit for long-script locales -------------------------------------
+   `.nav-links a` is white-space:nowrap, and the hamburger only appears below
+   768px, so between those widths a wide language can push the row past the
+   rail: Russian needs 1141px of links inside a 1104px rail at a 1280px
+   viewport, which made the whole RU site scroll sideways on laptops. Two
+   levers: tighten the link metrics for ru, and drop the wordmark below
+   tablet-landscape width (the logo tile still carries the identity). */
+@media (max-width: 1439px) {
+  html[lang="ru"] .nav-links a,
+  html[lang="fr"] .nav-links a,
+  html[lang="es"] .nav-links a { font-size: 0.8rem; padding: 8px 8px; }
+  html[lang="ru"] .nav-links .btn-nav,
+  html[lang="fr"] .nav-links .btn-nav,
+  html[lang="es"] .nav-links .btn-nav { padding: 8px 12px; }
+}
+@media (max-width: 1279px) {
+  .nav-brand .brand-site { display: none; }
+}
+
+/* Russian nav, tablet range: even after the tightening above the row still
+   needs ~1009px, so below 1024px the parent-site back-link is dropped and the
+   type steps down again. The hamburger takes over at 768px. */
+@media (max-width: 1023px) {
+  html[lang="ru"] .nav-links .nav-back { display: none; }
+  html[lang="ru"] .nav-links a { font-size: 0.74rem; padding: 8px 6px; }
+  html[lang="ru"] .nav-links .btn-nav { padding: 8px 10px; }
+}
+
+/* The single-line nav does not fit between ~768px and ~900px: English needs
+   904px of rail and Russian more, while the viewport offers 763-863px. Rather
+   than strip nav items, collapse into the hamburger a step earlier than the
+   global 768px breakpoint. */
+@media (max-width: 1024px) {
+  .nav-toggle { display: flex; }
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: var(--nav-height);
+    left: 0;
+    right: 0;
+    background: #fff;
+    flex-direction: column;
+    padding: 16px;
+    border-bottom: 1px solid var(--border);
+    box-shadow: var(--shadow);
+    gap: 4px;
+  }
+  .nav-links.open { display: flex; }
+  .nav-links a { font-size: 0.95rem; padding: 10px 12px; }
+  .nav-links .nav-back { display: block; }
+}
